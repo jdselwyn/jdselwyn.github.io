@@ -1,0 +1,19 @@
+name: "Jason Selwyn"
+navbar:
+  output_dir: "."
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "About Me"
+      href: me.html
+    - text: "GitHub"
+      href: https://github.com/jdselwyn
+output:
+  html_document:
+    css: "style.css"
+    includes:
+      in_header: "header.html"
