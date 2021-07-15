@@ -46,9 +46,9 @@ Jason earned his BS in Biology from [Northeastern University](https://www.northe
 jdselwyn(at)gmail(dot)com
 <br>
 <a target="_blank" title="follow me on Twitter" href="https://www.twitter.com/jasonselwyn"><img alt="follow me on Twitter" src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter30x30.png" border=0></a> [JasonSelwyn](https://www.twitter.com/jasonselwyn)
-
 <br>
-
+[CV]("documents/Jason Selwyn Su21 CV.pdf")
+<br>
 <!-- after each person I have inserted two separated breaks (takes up more space than 2 together... not sure why) and then the *** which draws a line -->
 
 ***
