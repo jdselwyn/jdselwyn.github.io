@@ -131,7 +131,7 @@ background: rgba(211, 211, 211, .7); sets the background of the body to be a lig
 
 <br>
 
-6. **Selwyn, J. D.**, J. E. Johnson, A. M. Downey-Wall, A. M. Bynum, R. M. Hamner, J. D. Hogan, and C. E. Bird. (2017). Simulations indicate that scores of lionfish (<i>Pterois volitans</i>) colonized the Atlantic Ocean. [PeerJ 5:e3996.](document/Selwyn et al_2017.pdf)
+6. **Selwyn, J. D.**, J. E. Johnson, A. M. Downey-Wall, A. M. Bynum, R. M. Hamner, J. D. Hogan, and C. E. Bird. (2017). Simulations indicate that scores of lionfish (<i>Pterois volitans</i>) colonized the Atlantic Ocean. [PeerJ 5:e3996.](documents/Selwyn et al_2017.pdf)
 
 <br>
 
