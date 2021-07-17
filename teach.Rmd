@@ -2,8 +2,6 @@
 title: 'Teaching'
 ---
 
-<br>
-
 # Teaching
 
 ```{css, echo=FALSE}

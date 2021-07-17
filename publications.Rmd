@@ -172,18 +172,18 @@ background: rgba(211, 211, 211, .7); sets the background of the body to be a lig
 
 <br>
 
-4. Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C. Mace, and D. Gatlin III. in review. Effects on Embryonic Development and Survival of Newly Hatched Southern Flounder (*Paralichthys lethostigma*) Larvae Under Conditions of Acute Exposure to Experimental Temperature and Salinity Treatment Combinations (AQREP-D-20-00109). Aquaculture Reports
+4. Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C. Mace, and D. Gatlin III. (in review). Effects on Embryonic Development and Survival of Newly Hatched Southern Flounder (*Paralichthys lethostigma*) Larvae Under Conditions of Acute Exposure to Experimental Temperature and Salinity Treatment Combinations (AQREP-D-20-00109). Aquaculture Reports
 
 <br>
 
-3. Broquet, N., J. Scarpa, A. Siccardi, **J. D. Selwyn**, J. Pollack, and D. Vaughan. in review. Challenges Implementing Lobe Coral (*Porites*) Propagation By Microfragmentation In A Philippine Fisherfolk Community (REC-21-098). Restoration Ecology.
+3. Broquet, N., J. Scarpa, A. Siccardi, **J. D. Selwyn**, J. Pollack, and D. Vaughan. (in review). Challenges Implementing Lobe Coral (*Porites*) Propagation By Microfragmentation In A Philippine Fisherfolk Community (REC-21-098). Restoration Ecology.
 
 <br>
 
-2. Hamner, R. M., **J. D. Selwyn**, E. Krell, S. A. King, and C. E. Bird. in review. Modeling next-generation sequencer sampling error in pooled population samples dramatically reduces false positives in genetic structure tests (MER-20-0061). Molecular Ecology Resources
+2. Hamner, R. M., **J. D. Selwyn**, E. Krell, S. A. King, and C. E. Bird. (in review). Modeling next-generation sequencer sampling error in pooled population samples dramatically reduces false positives in genetic structure tests (MER-20-0061). Molecular Ecology Resources
 
 <br>
 
-1. **Selwyn, J. D.**, and J. D. Hogan. in review. Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series.
+1. **Selwyn, J. D.**, and J. D. Hogan. (in review). Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series.
 
 <br>
