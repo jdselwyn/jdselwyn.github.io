@@ -123,7 +123,7 @@ background: rgba(211, 211, 211, .7); sets the background of the body to be a lig
 <br>
 
 <!-- below are publications in order from most recent to less recent with the actual publication hyperlinked within the journal name, My name is bolded--> 
-9. Rue, C. R.^\*^^†^, **J. D. Selwyn**^†^, P. M. Cockett, B. Gillis, L. Gurski, P. Jose, B. L. Kutil, S. F. Magnuson, L. Á. L. de Mesa, R. D. Overath, D. L. Smee, and C. E. Bird. 2021. Genetic diversity across the mitochondrial genome of eastern oysters (Crassostrea virginica) in the northern Gulf of Mexico. [PeerJ 9:e12205.](documents/Rue et al_2021.pdf)
+9. Rue, C. R.^\*^^†^, **J. D. Selwyn**^†^, P. M. Cockett, B. Gillis, L. Gurski, P. Jose, B. L. Kutil, S. F. Magnuson, L. Á. L. de Mesa, R. D. Overath, D. L. Smee, and C. E. Bird. (2021). Genetic diversity across the mitochondrial genome of eastern oysters (<i>Crassostrea virginica</i>) in the northern Gulf of Mexico. [PeerJ 9:e12205.](documents/Rue et al_2021.pdf)
 
 <br>
 
