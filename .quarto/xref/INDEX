@@ -4,5 +4,23 @@
   },
   "about.qmd": {
     "about.html": "b88a404c"
+  },
+  "old/about.Rmd": {
+    "about.html": "49f263f4"
+  },
+  "old/index.Rmd": {
+    "index.html": "9d61d865"
+  },
+  "old/me.Rmd": {
+    "me.html": "93b5f78b"
+  },
+  "old/publications.Rmd": {
+    "publications.html": "8e6c77b5"
+  },
+  "old/research.Rmd": {
+    "research.html": "f6ada420"
+  },
+  "old/teach.Rmd": {
+    "teach.html": "ee4d913b"
   }
 }
