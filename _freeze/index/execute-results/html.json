@@ -1,8 +1,10 @@
 {
-  "hash": "dbd4e3e06a6a945315b79323ba25be57",
+  "hash": "08fa78fb90f92735b83941ddd049966e",
   "result": {
-    "markdown": "---\ntitle: \"Website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Jason Selwyn\"\n---\n\n\nThis is a Quarto website. Made by Jason Selwyn\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 4\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
