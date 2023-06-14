@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Jason Selwyn",
     "section": "",
-    "text": "This is a Quarto website. Made by Jason Selwyn\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n2+2\n\n[1] 4\n\n5^3\n\n[1] 125"
+    "text": "Jason Selwyn\nHello!\nI am currently a Ph.D. candidate at Texas A&M University - Corpus Christi working in the lab of Dr. Derek Hogan. My research focuses on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies Coryphopterus hyalinus personatus."
   },
   {
     "objectID": "me.html",
@@ -21,10 +21,10 @@
     "text": "Jason earned his BS in Biology from Northeastern University. He then worked as a research assistant at the Cape Eleuthera Institute performing research on the effects of invasive lionfish on native fish communities. He started working with Dr. Derek Hogan at TAMUCC for his MS. Initially he planned to study if lionfish act as a strong selective pressure on native fishes. However, after what, in restrospect, was a fortunate series of events he transitioned to researching family groupings in Coryphopterus personatus. Realizing the abundance and presence of relatives in the same area makes for an interesting study species to look at dispersal and how the environment influences dispersal Jason decided to continue working with Derek at TAMUCC for his PhD to look into these questions.\njdselwyn(at)gmail(dot)com"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teach.html",
+    "href": "teach.html",
+    "title": "Teaching",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n'test'\n\n[1] \"test\""
+    "text": "Northeastern University\n\n\nTexas A&M University - Corpus Christi\n\n\n\n\n\nBiology\n\n\nStatistics\n\n\n\n\nBiology I (BIOL 1406)\n\n\nStatistics for Life (MATH 1442)\n\n\n\n\nGenetics (BIOL 2416)\n\n\nStatistical Methods in Research I (MATH 6315)\n\n\n\n\nMicrobiology (BIOL 2421)\n\n\nStatistical Methods in Research II (MATH 6316)\n\n\n\n\nInvertebrate Zoology (BIOL 3413)\n\n\nMixed Effects Models for Scientists (MATH 6317)\n\n\n\n\nMarine Ecology (BIOL 4336)\n\n\nAn Introduction to Bayesian Statistics (MATH 6318)"
   }
 ]
