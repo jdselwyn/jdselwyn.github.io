@@ -1,46 +1,36 @@
 ---
 title: "Teaching"
 ---
+
 <!-- TODO - fix font, have name centered, have text all within fade out part of image, update text, add NEU 3seas -->
 
 # Northeastern University
 
+Instructor: [Marine Biology Research Project](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/)
 
 # Texas A&M University - Corpus Christi
+
 <br>
 
-<table align="center">
-  <tr>
-    <th>Biology</th>
-    <th>Statistics</th>
-  </tr>
-  <tr>
-    <td>Biology I ([BIOL 1406](https://catalog.tamucc.edu/search/?P=BIOL%201406))</td>
-    <td>Statistics for Life ([MATH 1442](https://catalog.tamucc.edu/search/?P=MATH%201442))</td>
-  </tr>
-  <tr>
-    <td>Genetics ([BIOL 2416](https://catalog.tamucc.edu/search/?P=BIOL%202416))</td>
-    <td>Statistical Methods in Research I ([MATH 6315](https://catalog.tamucc.edu/search/?P=MATH%206315))</td>
-  </tr>
-  <tr>
-    <td>Microbiology ([BIOL 2421](https://catalog.tamucc.edu/search/?P=BIOL%202421))</td>
-    <td>Statistical Methods in Research II ([MATH 6316](https://catalog.tamucc.edu/search/?P=MATH%206316))</td>
-  </tr>
-  <tr>
-    <td>Invertebrate Zoology ([BIOL 3413](https://catalog.tamucc.edu/search/?P=BIOL%203413))</td>
-    <td>Mixed Effects Models for Scientists ([MATH 6317](https://catalog.tamucc.edu/search/?P=MATH%206317))</td>
-  </tr>
-  <tr>
-    <td>Marine Ecology ([BIOL 4336](https://catalog.tamucc.edu/search/?P=BIOL%204336))</td>
-    <td>An Introduction to Bayesian Statistics ([MATH 6318](https://catalog.tamucc.edu/search/?P=MATH%206318))</td>
-  </tr>
-</table>
-
-
++----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Biology                                                                                | Statistics                                                                                               |
++========================================================================================+==========================================================================================================+
+| Biology I (\[BIOL 1406\](https://catalog.tamucc.edu/search/?P=BIOL%201406))            | Statistics for Life (\[MATH 1442\](https://catalog.tamucc.edu/search/?P=MATH%201442))                    |
++----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Genetics (\[BIOL 2416\](https://catalog.tamucc.edu/search/?P=BIOL%202416))             | Statistical Methods in Research I (\[MATH 6315\](https://catalog.tamucc.edu/search/?P=MATH%206315))      |
++----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Microbiology (\[BIOL 2421\](https://catalog.tamucc.edu/search/?P=BIOL%202421))         | Statistical Methods in Research II (\[MATH 6316\](https://catalog.tamucc.edu/search/?P=MATH%206316))     |
++----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Invertebrate Zoology (\[BIOL 3413\](https://catalog.tamucc.edu/search/?P=BIOL%203413)) | Mixed Effects Models for Scientists (\[MATH 6317\](https://catalog.tamucc.edu/search/?P=MATH%206317))    |
++----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Marine Ecology (\[BIOL 4336\](https://catalog.tamucc.edu/search/?P=BIOL%204336))       | An Introduction to Bayesian Statistics (\[MATH 6318\](https://catalog.tamucc.edu/search/?P=MATH%206318)) |
++----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
 
 ---
 format: html
 ---
+
+```{=html}
 <style>
 html {
    background: url(img/barrel_sponge.jpg);
@@ -66,3 +56,4 @@ table, th, td {
 
 }
 </style>
+```
