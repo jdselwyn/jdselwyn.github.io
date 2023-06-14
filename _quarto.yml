@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Website"
+  title: "Jason Selwyn"
   favicon: img/goby.png
   navbar:
     left:
@@ -17,6 +17,8 @@ website:
         text: 'Publications'
       - href: me.qmd
         text: About Me
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=3LC4ntQAAAAJ&hl=en 
       - text: "GitHub"
         href: https://github.com/jdselwyn
       
