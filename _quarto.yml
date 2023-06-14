@@ -8,7 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: 'Research'
+      - href: teach.qmd
+        text: 'Teaching'
+      - href: publications.qmd
+        text: 'Publications'
+      - href: me.qmd
+        text: About Me
+      - text: "GitHub"
+        href: https://github.com/jdselwyn
+      
 
 format:
   html:
