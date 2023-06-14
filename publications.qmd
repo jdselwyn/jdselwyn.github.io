@@ -37,6 +37,11 @@ format: html
 
 2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in review. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
 
+# Dissertation & Thesis
+1\. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
+
+2\. [MS Thesis](documents/)
+
 <!-- Papers abandoned by lead author after 1st review -->
 
 <!-- 4. Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C. Mace, and D. Gatlin III. (in review). Effects on Embryonic Development and Survival of Newly Hatched Southern Flounder (*Paralichthys lethostigma*) Larvae Under Conditions of Acute Exposure to Experimental Temperature and Salinity Treatment Combinations (AQREP-D-20-00109). Aquaculture Reports -->
