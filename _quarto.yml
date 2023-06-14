@@ -15,10 +15,10 @@ website:
         text: 'Research'
       - href: teach.qmd
         text: 'Teaching'
-      - href: publications.qmd
-        text: 'Publications'
       - href: consulting.qmd
         text: 'Consulting'
+      - href: publications.qmd
+        text: 'Publications'
       - href: me.qmd
         text: About Me
         
