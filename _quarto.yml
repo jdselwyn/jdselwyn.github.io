@@ -17,6 +17,8 @@ website:
         text: 'Publications'
       - href: me.qmd
         text: About Me
+        
+    right:
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?user=3LC4ntQAAAAJ&hl=en 
       - text: "GitHub"
