@@ -1,8 +1,8 @@
 ---
-title: "Website"
+title: "Jason Selwyn"
 ---
 
-This is a Quarto website.
+This is a Quarto website. Made by Jason Selwyn
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
