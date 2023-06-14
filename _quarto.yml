@@ -5,6 +5,8 @@ project:
 website:
   title: "Jason Selwyn"
   favicon: img/goby.png
+  twitter-card: true
+  site-url: https://jdselwyn.github.io
   navbar:
     left:
       - href: index.qmd
@@ -19,6 +21,10 @@ website:
         text: About Me
         
     right:
+      - text: "CV"
+        href: documents/Jason%20Selwyn%20Sp23%20CV.pdf
+      - text: "Twitter"
+        href: https://www.twitter.com/jasonselwyn
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?user=3LC4ntQAAAAJ&hl=en 
       - text: "GitHub"
