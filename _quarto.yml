@@ -27,10 +27,10 @@ website:
         href: https://scholar.google.com/citations?user=3LC4ntQAAAAJ&hl=en 
       - text: "GitHub"
         href: https://github.com/jdselwyn
-      - text: "Twitter"
-        href: https://www.twitter.com/jasonselwyn
       - text: "CV"
         href: documents/Jason%20Selwyn%20Sp23%20CV.pdf
+      - text: "Twitter"
+        href: https://www.twitter.com/jasonselwyn
       
 
 format:
