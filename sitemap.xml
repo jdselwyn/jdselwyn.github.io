@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/jdselwyn/jdselwyn.github.io/research.html</loc>
-    <lastmod>2023-06-14T17:16:57.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/jdselwyn/jdselwyn.github.io/publications.html</loc>
-    <lastmod>2023-06-14T17:16:58.679Z</lastmod>
+    <loc>https://github.com/jdselwyn/jdselwyn.github.io/teach.html</loc>
+    <lastmod>2023-06-14T17:36:02.647Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/jdselwyn/jdselwyn.github.io/index.html</loc>
-    <lastmod>2023-06-14T17:17:00.235Z</lastmod>
+    <lastmod>2023-06-14T17:36:04.599Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jdselwyn/jdselwyn.github.io/me.html</loc>
-    <lastmod>2023-06-14T17:17:00.511Z</lastmod>
+    <loc>https://github.com/jdselwyn/jdselwyn.github.io/research.html</loc>
+    <lastmod>2023-06-14T17:36:04.867Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/jdselwyn/jdselwyn.github.io/about.html</loc>
-    <lastmod>2023-06-14T17:17:01.887Z</lastmod>
+    <lastmod>2023-06-14T17:36:06.207Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jdselwyn/jdselwyn.github.io/teach.html</loc>
-    <lastmod>2023-06-14T17:17:02.151Z</lastmod>
+    <loc>https://github.com/jdselwyn/jdselwyn.github.io/me.html</loc>
+    <lastmod>2023-06-14T17:36:06.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/jdselwyn/jdselwyn.github.io/publications.html</loc>
+    <lastmod>2023-06-14T17:36:06.847Z</lastmod>
   </url>
 </urlset>
