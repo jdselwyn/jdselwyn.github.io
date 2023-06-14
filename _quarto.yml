@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Website"
+  favicon: images/goby.png
   navbar:
     left:
       - href: index.qmd

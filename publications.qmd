@@ -3,45 +3,45 @@ title: "Publications"
 format: 
   html:
     css: css_files/publications.css
+    page-layout: full
 ---
 
-<br>
+# Publications
 
-<!-- below are publications in order from most recent to less recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list--> 
+<!-- below are publications in order from most recent to less recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
 
-11\. Mullis, M. M., **J. D. Selwyn**, R. Kevorkian, E. D. Tague, H. F. Castro, S. R. Campagna, K. G. Lloyd, and B. K. Reese. 2023. Microbial survival mechanisms within serpentinizing Mariana forearc sediments. [FEMS Microbiology Ecology 99:fiad003](documents/Mullis et al_2023.pdf)
+11\. Mullis, M. M., **J. D. Selwyn**, R. Kevorkian, E. D. Tague, H. F. Castro, S. R. Campagna, K. G. Lloyd, and B. K. Reese. 2023. Microbial survival mechanisms within serpentinizing Mariana forearc sediments. [FEMS Microbiology Ecology 99:fiad003](documents/Mullis%20et%20al_2023.pdf)
 
 10\. **Selwyn J. D.**, Hunt E. P., Portnoy D. S., Hogan J. D. (2022) Maintenance of species boundaries within social aggregations of ecologically similar goby sister species. [Marine Biology 169:32](documents/Selwyn_et_al-2022-Marine_Biology.pdf)
 
-9\. Rue, C. R.^\*^^†^, **J. D. Selwyn**^†^, P. M. Cockett, B. Gillis, L. Gurski, P. Jose, B. L. Kutil, S. F. Magnuson, L. Á. L. de Mesa, R. D. Overath, D. L. Smee, and C. E. Bird. (2021). Genetic diversity across the mitochondrial genome of eastern oysters (<i>Crassostrea virginica</i>) in the northern Gulf of Mexico. [PeerJ 9:e12205](documents/Rue et al_2021.pdf)
+9\. Rue, C. R.^\*†^, **J. D. Selwyn**^†^, P. M. Cockett, B. Gillis, L. Gurski, P. Jose, B. L. Kutil, S. F. Magnuson, L. Á. L. de Mesa, R. D. Overath, D. L. Smee, and C. E. Bird. (2021). Genetic diversity across the mitochondrial genome of eastern oysters (<i>Crassostrea virginica</i>) in the northern Gulf of Mexico. [PeerJ 9:e12205](documents/Rue%20et%20al_2021.pdf)
 
-8\. Beeken, N. S., **J. D. Selwyn**, and J. D. Hogan. (2021). Determining the life history strategy of the cryptobenthic reef gobies <i>Coryphopterus hyalinus</i> and <i>C. personatus</i>. [Marine Ecology Progress Series 659:161–173](documents/Beeken et al_2021.pdf)
+8\. Beeken, N. S., **J. D. Selwyn**, and J. D. Hogan. (2021). Determining the life history strategy of the cryptobenthic reef gobies <i>Coryphopterus hyalinus</i> and <i>C. personatus</i>. [Marine Ecology Progress Series 659:161--173](documents/Beeken%20et%20al_2021.pdf)
 
-7\. Hamilton, A. M.^\*^, **J. D. Selwyn**, R. M. Hamner, H. K. Johnson, T. Brown, S. K. Springer, and C. E. Bird. (2020). Biogeography of shell morphology in over-exploited shellfish reveals adaptive trade-offs on human-inhabited islands and incipient selectively driven lineage bifurcation. [Journal of Biogeography 47:1494–1509](documents/Hamilton et al_2020.pdf)
+7\. Hamilton, A. M.^\*^, **J. D. Selwyn**, R. M. Hamner, H. K. Johnson, T. Brown, S. K. Springer, and C. E. Bird. (2020). Biogeography of shell morphology in over-exploited shellfish reveals adaptive trade-offs on human-inhabited islands and incipient selectively driven lineage bifurcation. [Journal of Biogeography 47:1494--1509](documents/Hamilton%20et%20al_2020.pdf)
 
-6\. **Selwyn, J. D.**, J. E. Johnson, A. M. Downey-Wall, A. M. Bynum, R. M. Hamner, J. D. Hogan, and C. E. Bird. (2017). Simulations indicate that scores of lionfish (<i>Pterois volitans</i>) colonized the Atlantic Ocean. [PeerJ 5:e3996](documents/Selwyn et al_2017.pdf)
+6\. **Selwyn, J. D.**, J. E. Johnson, A. M. Downey-Wall, A. M. Bynum, R. M. Hamner, J. D. Hogan, and C. E. Bird. (2017). Simulations indicate that scores of lionfish (<i>Pterois volitans</i>) colonized the Atlantic Ocean. [PeerJ 5:e3996](documents/Selwyn%20et%20al_2017.pdf)
 
-5\. Usseglio, P.^†^, **J. D. Selwyn**^†^, A. M. Downey-Wall, and J. D. Hogan. (2017). Effectiveness of removals of the invasive lionfish: how many dives are needed to deplete a reef? [PeerJ 5:e3043](documents/Usseglio et al_2017.pdf)
+5\. Usseglio, P.^†^, **J. D. Selwyn**^†^, A. M. Downey-Wall, and J. D. Hogan. (2017). Effectiveness of removals of the invasive lionfish: how many dives are needed to deplete a reef? [PeerJ 5:e3043](documents/Usseglio%20et%20al_2017.pdf)
 
-4\. Harborne, A. R., **J. D. Selwyn**, J. M. Lawson, and M. Gallo. (2017). Environmental drivers of diurnal visits by transient predatory fishes to Caribbean patch reefs. [Journal of Fish Biology 90:265–282](documents/Harborne et al_2017.pdf)
+4\. Harborne, A. R., **J. D. Selwyn**, J. M. Lawson, and M. Gallo. (2017). Environmental drivers of diurnal visits by transient predatory fishes to Caribbean patch reefs. [Journal of Fish Biology 90:265--282](documents/Harborne%20et%20al_2017.pdf)
 
-3\. MacKay, M. M., B. Würsig, C. E. Bacon, and **J. D. Selwyn**. (2016). North Atlantic humpback whale (<i>Megaptera novaeangliae</i>) hotspots defined by bathymetric features off western Puerto Rico. [Canadian Journal of Zoology 94:517–527](documents/MacKay et al_2016.pdf)
+3\. MacKay, M. M., B. Würsig, C. E. Bacon, and **J. D. Selwyn**. (2016). North Atlantic humpback whale (<i>Megaptera novaeangliae</i>) hotspots defined by bathymetric features off western Puerto Rico. [Canadian Journal of Zoology 94:517--527](documents/MacKay%20et%20al_2016.pdf)
 
-2\. **Selwyn, J. D.**, J. D. Hogan, A. M. Downey-Wall, L. M. Gurski, D. S. Portnoy, and D. D. Heath. (2016). Kin-Aggregations Explain Chaotic Genetic Patchiness, a Commonly Observed Genetic Pattern, in a Marine Fish. [PLOS ONE 11:e0153381](documents/Selwyn et al_2016.pdf)
+2\. **Selwyn, J. D.**, J. D. Hogan, A. M. Downey-Wall, L. M. Gurski, D. S. Portnoy, and D. D. Heath. (2016). Kin-Aggregations Explain Chaotic Genetic Patchiness, a Commonly Observed Genetic Pattern, in a Marine Fish. [PLOS ONE 11:e0153381](documents/Selwyn%20et%20al_2016.pdf)
 
-1\. **Selwyn, J.**, J. D. Hogan, A. Downey-Wall, and P. Usseglio. (2014). Decadal changes in reef fish recruitment at Turneffe Atoll, Belize: before and after lionfish invasion. Pages 213–216 [Proceedings of the 66th Gulf and Caribbean Fisheries Institute. Corpus Christi, Texas, USA](documents/Selwyn et al_2014.pdf)
+1\. **Selwyn, J.**, J. D. Hogan, A. Downey-Wall, and P. Usseglio. (2014). Decadal changes in reef fish recruitment at Turneffe Atoll, Belize: before and after lionfish invasion. Pages 213--216 [Proceedings of the 66th Gulf and Caribbean Fisheries Institute. Corpus Christi, Texas, USA](documents/Selwyn%20et%20al_2014.pdf)
 
-^\*^: Mentored Undergraduate
-^†^: Equal First Author
-
-
+^\*^: Mentored Undergraduate ^†^: Equal First Author
 
 # In Review & Revision
+
 1\. Vollmer S. V.†, **J. D. Selwyn†**, B. A. Despard, C. L. Roesel. in review. Genomic signatures of disease resistance in endangered staghorn corals (adi3601). Science.
 
 2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in review. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
 
 <!-- Papers abandoned by lead author after 1st review -->
+
 <!-- 4. Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C. Mace, and D. Gatlin III. (in review). Effects on Embryonic Development and Survival of Newly Hatched Southern Flounder (*Paralichthys lethostigma*) Larvae Under Conditions of Acute Exposure to Experimental Temperature and Salinity Treatment Combinations (AQREP-D-20-00109). Aquaculture Reports -->
 
 <!-- <br> -->
