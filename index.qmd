@@ -1,15 +1,62 @@
 ---
 title: "Jason Selwyn"
+format: html
 ---
 
-This is a Quarto website. Made by Jason Selwyn
+<!-- TODO - fix font, remove nav bar on right, have name centered, have text all within fade out part of image, update text -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Jason Selwyn
+Hello!
 
-```{r}
-1 + 1
+I am currently a Ph.D. candidate at [Texas A&M University - Corpus Christi](https://tamucc.edu/) working in the lab of Dr. [Derek Hogan](https://derekhoganresearch.wordpress.com/). My research focuses on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies <i>Coryphopterus hyalinus</i> <i>personatus</i>.
 
-2+2
+---
+format: html
+---
 
-5^3
-```
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XZNV2B7VTX');
+</script>
+
+<style>
+html {
+   background: url(img/planktivores.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+body {
+   color: black;
+   position: absolute; 
+   top: 30%; 
+   left: 0; 
+   width: 100%; 
+   background: rgba(255,255,255, .5);;
+}
+
+@media screen and (max-width: 480px) {
+    html {
+     background: url(img/planktivores.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+    }
+    body {
+     color: black;
+     left: 0;
+     top: 0;
+     bottom: 0;
+     width: 100%; 
+     background: rgba(255,255,255, .8);
+  }
+}
+</style>

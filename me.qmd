@@ -3,6 +3,8 @@ title: "About Me"
 format: html
 ---
 
+<!-- TODO - Update text to be more recent -->
+
 <img src="img/jason2.jpg" width="400px" height="400px" align="left" style= "padding: 10px; object-fit: cover">
 
 Jason earned his BS in Biology from [Northeastern University](https://www.northeastern.edu/). He then worked as a research assistant at the [Cape Eleuthera Institute](http://www.ceibahamas.org/) performing research on the effects of invasive lionfish on native fish communities. He started working with Dr. [Derek Hogan](https://derekhoganresearch.wordpress.com/) at [TAMUCC](https://tamucc.edu/) for his MS. Initially he planned to study if lionfish act as a strong selective pressure on native fishes. However, after what, in restrospect, was a fortunate series of events he transitioned to researching [family groupings in <i>Coryphopterus personatus</i>](https://doi.org/10.1371/journal.pone.0153381). Realizing the abundance and presence of relatives in the same area makes for an interesting study species to look at dispersal and how the environment influences dispersal Jason decided to continue working with Derek at TAMUCC for his PhD to look into these questions.
