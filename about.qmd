@@ -7,4 +7,6 @@ About this site
 ```{r}
 1 + 1
 'test'
+
+"Hello World"
 ```
