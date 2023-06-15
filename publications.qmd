@@ -40,9 +40,9 @@ format: html
 2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in review. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
 
 # Dissertation & Thesis
-1\. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
+1\. **Selwyn, J. D.** 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
 
-2\. [MS Thesis](documents/)
+2\. **Selwyn, J. D.** 2015, July. How does Dispersal affect Chaos: Viscous Populations and Families in a Common Caribbean Goby (Coryphopterus personatus). Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [MS Thesis](documents/JSelwyn%20Thesis_Final.pdf)
 
 <!-- Papers abandoned by lead author after 1st review -->
 
