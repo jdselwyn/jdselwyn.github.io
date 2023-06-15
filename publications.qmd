@@ -42,7 +42,7 @@ format: html
 # Dissertation & Thesis
 1\. **Selwyn, J. D.** 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
 
-2\. **Selwyn, J. D.** 2015, July. How does Dispersal affect Chaos: Viscous Populations and Families in a Common Caribbean Goby (Coryphopterus personatus). Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [MS Thesis](documents/JSelwyn%20Thesis_Final.pdf)
+2\. **Selwyn, J. D.** 2015, July. How does Dispersal affect Chaos: Viscous Populations and Families in a Common Caribbean Goby (<i>Coryphopterus personatus</i>). Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [MS Thesis](documents/JSelwyn%20Thesis_Final.pdf)
 
 <!-- Papers abandoned by lead author after 1st review -->
 
