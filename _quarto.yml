@@ -17,20 +17,28 @@ website:
         text: 'Teaching'
       #- href: consulting.qmd
       #  text: 'Consulting'
+      - text: Blog
+        href: blog.qmd 
       - href: publications.qmd
         text: 'Publications'
       - href: me.qmd
         text: About Me
         
     right:
-      - text: "Google Scholar"
+      - text: Archive
+        href: archive.qmd
+      - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=3LC4ntQAAAAJ&hl=en 
-      - text: "GitHub"
+      - icon: github
         href: https://github.com/jdselwyn
-      - text: "CV"
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-9100-217X
+      - text: "{{< ai cv >}}"
         href: documents/Jason%20Selwyn%20Sp23%20CV.pdf
-      - text: "Twitter"
+      - icon: twitter
         href: https://www.twitter.com/jasonselwyn
+      - icon: rss
+        href: blog.xml
       
 
 format:
