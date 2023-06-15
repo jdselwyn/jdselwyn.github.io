@@ -12,7 +12,7 @@
 <generator>quarto-1.3.361</generator>
 <lastBuildDate>Thu, 15 Jun 2023 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>First test post</title>
+  <title>Differences in Fishery Survey Methods</title>
   <dc:creator>Jason Selwyn</dc:creator>
   <link>https://jdselwyn.github.io/posts/first_post.html</link>
   <description><![CDATA[ 
@@ -1910,6 +1910,7 @@ font-style: inherit;">16</span>)))</span></code></pre></div>
   <category>Fisheries</category>
   <category>T-Test</category>
   <category>Bootstrap</category>
+  <category>Bayesian</category>
   <guid>https://jdselwyn.github.io/posts/first_post.html</guid>
   <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
 </item>
