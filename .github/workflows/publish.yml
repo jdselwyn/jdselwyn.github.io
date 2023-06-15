@@ -23,6 +23,11 @@ jobs:
           r-version: '4.2.1'
           
       - name: Install R Dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: curl
+          
+      - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 1
