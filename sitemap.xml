@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jdselwyn.github.io/teach.html</loc>
-    <lastmod>2023-06-15T14:10:10.100Z</lastmod>
+    <lastmod>2023-06-15T20:35:27.844Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/index.html</loc>
-    <lastmod>2023-06-15T14:10:10.760Z</lastmod>
+    <lastmod>2023-06-15T20:35:28.524Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/consulting.html</loc>
-    <lastmod>2023-06-15T14:10:11.076Z</lastmod>
+    <lastmod>2023-06-15T20:35:28.876Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/research.html</loc>
-    <lastmod>2023-06-15T14:10:11.492Z</lastmod>
+    <lastmod>2023-06-15T20:35:29.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/archive.html</loc>
+    <lastmod>2023-06-15T20:35:29.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/posts/first_post.html</loc>
+    <lastmod>2023-06-15T20:35:50.128Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/blog.html</loc>
+    <lastmod>2023-06-15T20:35:50.572Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/me.html</loc>
-    <lastmod>2023-06-15T14:10:11.816Z</lastmod>
+    <lastmod>2023-06-15T20:35:50.916Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/publications.html</loc>
-    <lastmod>2023-06-15T14:10:12.248Z</lastmod>
+    <lastmod>2023-06-15T20:35:51.396Z</lastmod>
   </url>
 </urlset>
