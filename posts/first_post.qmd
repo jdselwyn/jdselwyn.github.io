@@ -1,7 +1,7 @@
 ---
-title: 'First test post'
+title: 'Differences in Fishery Survey Methods'
 date: '2023-06-15'
-categories: ['Testing', 'Fisheries', 'T-Test', 'Bootstrap']
+categories: ['Testing', 'Fisheries', 'T-Test', 'Bootstrap', 'Bayesian']
 description: "Testing Quarto features with a simple dataset"
 execute: 
   message: false
