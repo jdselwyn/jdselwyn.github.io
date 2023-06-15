@@ -6,7 +6,7 @@ title: "Teaching"
 
 # Northeastern University
 
-Instructor: [Marine Biology Research Project](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/)
+Instructor: Marine Biology Research Project([EEMB 7674](Marine Biology Research Project)) [Three Seas Program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/)
 
 # Texas A&M University - Corpus Christi
 
@@ -15,15 +15,15 @@ Instructor: [Marine Biology Research Project](https://cos.northeastern.edu/marin
 +----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
 | Biology                                                                                | Statistics                                                                                               |
 +========================================================================================+==========================================================================================================+
-| Biology I (\[BIOL 1406\](https://catalog.tamucc.edu/search/?P=BIOL%201406))            | Statistics for Life (\[MATH 1442\](https://catalog.tamucc.edu/search/?P=MATH%201442))                    |
+| Biology I ([BIOL 1406](https://catalog.tamucc.edu/search/?P=BIOL%201406))            | Statistics for Life ([MATH 1442](https://catalog.tamucc.edu/search/?P=MATH%201442))                    |
 +----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Genetics (\[BIOL 2416\](https://catalog.tamucc.edu/search/?P=BIOL%202416))             | Statistical Methods in Research I (\[MATH 6315\](https://catalog.tamucc.edu/search/?P=MATH%206315))      |
+| Genetics ([BIOL 2416](https://catalog.tamucc.edu/search/?P=BIOL%202416))             | Statistical Methods in Research I ([MATH 6315](https://catalog.tamucc.edu/search/?P=MATH%206315))      |
 +----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Microbiology (\[BIOL 2421\](https://catalog.tamucc.edu/search/?P=BIOL%202421))         | Statistical Methods in Research II (\[MATH 6316\](https://catalog.tamucc.edu/search/?P=MATH%206316))     |
+| Microbiology ([BIOL 2421](https://catalog.tamucc.edu/search/?P=BIOL%202421))         | Statistical Methods in Research II ([MATH 6316](https://catalog.tamucc.edu/search/?P=MATH%206316))     |
 +----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Invertebrate Zoology (\[BIOL 3413\](https://catalog.tamucc.edu/search/?P=BIOL%203413)) | Mixed Effects Models for Scientists (\[MATH 6317\](https://catalog.tamucc.edu/search/?P=MATH%206317))    |
+| Invertebrate Zoology ([BIOL 3413](https://catalog.tamucc.edu/search/?P=BIOL%203413)) | Mixed Effects Models for Scientists ([MATH 6317](https://catalog.tamucc.edu/search/?P=MATH%206317))    |
 +----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Marine Ecology (\[BIOL 4336\](https://catalog.tamucc.edu/search/?P=BIOL%204336))       | An Introduction to Bayesian Statistics (\[MATH 6318\](https://catalog.tamucc.edu/search/?P=MATH%206318)) |
+| Marine Ecology ([BIOL 4336](https://catalog.tamucc.edu/search/?P=BIOL%204336))       | An Introduction to Bayesian Statistics ([MATH 6318](https://catalog.tamucc.edu/search/?P=MATH%206318)) |
 +----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
 
 ---
