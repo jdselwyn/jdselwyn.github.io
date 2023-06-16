@@ -1,6 +1,7 @@
 ---
 title: "Archive"
 page-layout: full
+toc: false
 listing:
   contents: posts/**/*.qmd
   type: default

@@ -1,6 +1,7 @@
 ---
 title: "Jason Selwyn"
 format: html
+toc: false
 ---
 
 <!-- TODO - fix font, remove nav bar on right, have name centered, have text all within fade out part of image, update text -->
@@ -10,9 +11,6 @@ Hello!
 
 I am currently a Ph.D. candidate at [Texas A&M University - Corpus Christi](https://tamucc.edu/) working in the lab of Dr. [Derek Hogan](https://derekhoganresearch.wordpress.com/). My research focuses on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies <i>Coryphopterus hyalinus</i>/<i>personatus</i>.
 
----
-format: html
----
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>

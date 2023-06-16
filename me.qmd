@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 format: html
+toc: false
 ---
 
 <!-- TODO - Update text to be more recent -->

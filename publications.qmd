@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 format: html
+page-layout: full
 ---
 
 <!-- TODO - make it so there isn't sideways scrolling, add MS thesis -->
