@@ -6,7 +6,9 @@ website:
   title: "Jason Selwyn"
   favicon: img/goby.png
   twitter-card: true
+  open-graph: true
   site-url: https://jdselwyn.github.io
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -39,7 +41,6 @@ website:
         href: https://www.twitter.com/jasonselwyn
       - icon: rss
         href: blog.xml
-      
 
 format:
   html:
