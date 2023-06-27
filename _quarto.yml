@@ -8,7 +8,7 @@ website:
   twitter-card: true
   open-graph: true
   site-url: https://jdselwyn.github.io
-  search: false
+  search: true
   navbar:
     left:
       - href: index.qmd
