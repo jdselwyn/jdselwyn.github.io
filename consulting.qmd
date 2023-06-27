@@ -1,8 +1,39 @@
 ---
 title: "Consulting"
 ---
-- Southern Flounder Larval Development with [Texas Parks and Wildlife Department](https://tpwd.texas.gov/fishboat/fish/management/hatcheries/ccacpl.phtml)
-- Use of Drones to Estimate Wildlife Counts on Spanish Farms with [In-Nova Centro de Innovación](http://www.in-nova.org/es/)
-- Whale project
-- List of MS/Ph.D. Projects
-- 
+
+I occasionally work as a statistical consultant on various projects, typically in the general areas of ecology and evolution. If you'd like to work with me please reach out to me and tell me what question's you're interested in answering and how I could possibly help improve your ability to answer those questions. Below are some of the people/organizations I have worked with and brief descriptions and links to some outcomes of the collaboration.
+
+<!-- - CORE/PIRE WORK on developing methods to extract museum specimens for wgs -->
+
+-   Southern Flounder Larval Development with [Texas Parks and Wildlife Department](https://tpwd.texas.gov/fishboat/fish/management/hatcheries/ccacpl.phtml)
+
+    -   Perform analyses to determine optimal salinity and temperature conditions in which to raise larval southern flounder
+    -   Identify differentially expressed genes in male and female southern flounder and analyze seasonal changes in expression levels
+    -   Identify experimental, methodological, environmental, and diet based factors associated with malpigmentation in developing southern flounder
+
+-   Metabolomic Predictors of Antibiotic Production
+
+    -   Use non-antibiotic metabolic data to understand the amount of antibiotics produced by local subsurface microbes [Mullis et al. in prep](). In particular I used best subsets and lasso regressions to understand the relationship between non-antibiotic metabolites and microbial antibiotic production in a global set of samples accounting for sequencing/sampling effort. 
+    
+<!-- -   SOMETHING ABOUT RAPID/HARVEY -->
+
+-   Geochemical/Microbial/Metabolic Associations in the Mariana Trench subsurface sediment layer
+
+    -   The extreme conditions found within the seafloor at the deepest part of the ocean provide a great insight into microbial life in the extremes [Mullis et al. 2023](documents/Mullis%20et%20al_2023.pdf). In particular using Canonical Correspondance Analyses to understand how geochemical features of the marine subsurface influence microbial metabolite production.
+    
+-   Nueces County/City of Corpus Christi/TAMUCC COVID Task Force
+
+    -   Localize and implement various COVID models (particularly the [ICL model]()) during the early stages of the pandemic to inform the local government and populace of the disease dynamics locally. At the height of the pandemic these were broadcast weekly across various news organizations in the Coastal Bend (e.g. [DATE]())
+    
+<!-- - PORTNOY PROJECT HELP -->
+    
+-   Use of Drones to Estimate Wildlife Counts on Spanish Farms with [In-Nova Centro de Innovación](http://www.in-nova.org/es/)
+
+-   Bathymetric correlates of Humpback Whale singing behaviour
+
+    -   Humpback whales are known to sing to communicate with each other. Using a variety of data collection methods and identification of Humpback whale groupings we were able to find that single male singing Humpbacks near Puerto Rico tend to associate with the shelf edge of an underwater canyon possibly using the canyon to amplify their song in an effort to attract mates [MacKay et al. 2016](documents/MacKay%20et%20al_2016.pdf). In particular I used a multinomial logistic regression to explain Humpback whale behavior with various local bathymetric and environmental variables.
+
+<!-- -   List of MS/Ph.D. Projects -->
+
+-   

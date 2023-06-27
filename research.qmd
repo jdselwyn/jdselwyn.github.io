@@ -25,38 +25,30 @@ caption {
 
 ### **How is Dispersal Influenced by the Local Environment**
 <table class="image" align="right">
-<caption align="bottom">Habitat Quality (top) and Heterogeneity (bottom) influencing Dispersal.</caption>
+<caption align="bottom">Habitat Quality (top), Heterogeneity (middle) influencing Dispersal, and 3D Model Belizean Reef (bottom).</caption>
 <tr><td><img src="img/dispersal_v_habitat.png" align="right" width="250" height="300" style="padding: 10px"></td></tr>
+<tr><td><img src="img/Habitat_Map.gif" align="right" width="225" height="225" style="padding: 10px"></td></tr>
 </table>
 
-The main focus of my dissertation is to understand how the local habitat influences dispersal dynamics. I am using <i>Coryphopterus hyalinus</i>/<i>personatus</i> as a model system to understand these dynamics because, despite being generally poorly studied these two species contain characteristics making them an ideal study system for these questions. Namely, an abundant, short-lived sedentary adult life-history combined with generally localized dispersal behaviour.
+One of my primary research intersts is understanding how the local habitat influences dispersal dynamics. I am using <i>Coryphopterus hyalinus</i>/<i>personatus</i> as a model system to understand these dynamics because, despite being generally poorly studied these two species contain characteristics making them an ideal study system for these questions. Namely, an abundant, short-lived sedentary adult life-history combined with generally localized dispersal behaviour. Part of understanding how habitat quality influences dispersal is to first understand what counts as "good" habitat from the perspective of the <i>Coryphopterus</i> themselves. To try and get a fish eye view of what makes a particular part of the coral reef a better/worse place for a <i>Coryphopterus</i> to live I used structure-from-motion photogrammetry to create 3D reef models which I then used to model the distribution of <i>Coryphopterus</i> on the reef. 
 
 <br><br><br><br><br><br>
 
-### **What are the evolutionary impacts of living near close relatives?**
-<table class="image" align="right">
-<caption align="bottom">Family Networks of <i>C. hyalinus</i>.</caption>
-<tr><td><img src="img/family_network.png" align="right" width="250" height="300" style="padding: 10px"></td></tr>
-</table>
+<!-- ### **What are the evolutionary impacts of living near close relatives?** -->
+<!-- <table class="image" align="right"> -->
+<!-- <caption align="bottom">Family Networks of <i>C. hyalinus</i>.</caption> -->
+<!-- <tr><td><img src="img/family_network.png" align="right" width="250" height="300" style="padding: 10px"></td></tr> -->
+<!-- </table> -->
 
-One of the instigating findings leading me to use <i>Coryphopterus</i> as a study system to understand dispersal processes is finding in my [MS work](https://doi.org/10.1371/journal.pone.0153381) that there are many close relatives living much closer together than was previously anticipated. This finding has also led to another research interest of mine, what are the consequences of living with close relatives, good and bad?
-<br><br><br>
+<!-- One of the instigating findings leading me to use <i>Coryphopterus</i> as a study system to understand dispersal processes is finding in my [MS work](https://doi.org/10.1371/journal.pone.0153381) that there are many close relatives living much closer together than was previously anticipated. This finding has also led to another research interest of mine, what are the consequences of living with close relatives, good and bad? -->
+<!-- <br><br><br> -->
 
-### **What is "good quality" habitat from the perspective of <i>Coryphopterus hyalinus</i>/<i>personatus</i>?**
-<table class="image" align="left">
-<caption align="bottom">3D Model Belizean Reef</caption>
-<tr><td><img src="img/Habitat_Map.gif" align="left" width="225" height="225" style="padding: 10px"></td></tr>
-</table>
 
-Part of understanding how habitat quality influences dispersal is to first understand what counts as "good" habitat from the perspective of the <i>Coryphopterus</i> themselves. To try and get a fish eye view of what makes a particular part of the coral reef a better/worse place for a <i>Coryphopterus</i> to live I used structure-from-motion photogrammetry to create 3D reef models which I then used to model the distribution of <i>Coryphopterus</i> on the reef.
+<!-- ### **How do <i>Coryphopterus hyalinus</i> and <i>C. personatus</i> maintain species boundaries despite living together?** -->
+<!-- <i>Coryphopterus hyalinus</i> and <i>C. personatus</i> both look remarkably similar and they both live spread throughout the Caribbean with nearly entirely overlapping depth distributions and are seemingly the same ecologically. So, why are they two separate species? Do they hybridize much? Initially, I hypothesized that in areas of distributional overlap they would live in distinct shoals spread across the reef, so while at a macro-scale they were overlapping, and a micro-scale they were actually spatially isolated. This turns out not to be the case ([Selwyn et al. 2022](documents/Selwyn_et_al-2022-Marine_Biology.pdf)). However, despite living on top of each other we find very little evidence of wide-spread hybridization. So what is the mechanism maintaining this species boundary, and what does that teach us about speciation? -->
 
-<br><br><br><br>
-
-### **How do <i>Coryphopterus hyalinus</i> and <i>C. personatus</i> maintain species boundaries despite living together?**
-<i>Coryphopterus hyalinus</i> and <i>C. personatus</i> both look remarkably similar and they both live spread throughout the Caribbean with nearly entirely overlapping depth distributions and are seemingly the same ecologically. So, why are they two separate species? Do they hybridize much? Initially, I hypothesized that in areas of distributional overlap they would live in distinct shoals spread across the reef, so while at a macro-scale they were overlapping, and a micro-scale they were actually spatially isolated. This turns out not to be the case ([Selwyn et al. 2022](documents/Selwyn_et_al-2022-Marine_Biology.pdf)). However, despite living on top of each other we find very little evidence of wide-spread hybridization. So what is the mechanism maintaining this species boundary, and what does that teach us about speciation?
-
-<table class="image" align="center">
-<caption align="bottom"></caption>
-<tr><td><img src="img/COPE_ClearStain_3.png" align="center" width="500" style="padding: 10px"></td></tr>
-</table>
+<!-- <table class="image" align="center"> -->
+<!-- <caption align="bottom"></caption> -->
+<!-- <tr><td><img src="img/COPE_ClearStain_3.png" align="center" width="500" style="padding: 10px"></td></tr> -->
+<!-- </table> -->
 
