@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "teach.html",
-    "href": "teach.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Northeastern University\nInstructor: Marine Biology Research Project(EEMB 7674) Three Seas Program\n\n\nTexas A&M University - Corpus Christi\n\n\n\nBiology\nStatistics\n\n\n\n\nBiology I (BIOL 1406) | Statistics for Life (MATH 1442) |\n\n\n\nGenetics (BIOL 2416) | Statistical Methods in Research I (MATH 6315) |\n\n\n\nMicrobiology (BIOL 2421) | Statistical Methods in Research II (MATH 6316) |\n\n\n\nInvertebrate Zoology (BIOL 3413) | Mixed Effects Models for Scientists (MATH 6317) |\n\n\n\nMarine Ecology (BIOL 4336) | An Introduction to Bayesian Statistics (MATH 6318) |"
-  },
-  {
-    "objectID": "archive.html",
-    "href": "archive.html",
-    "title": "Archive",
-    "section": "",
-    "text": "Differences in Fishery Survey Methods\n\n\n\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "consulting.html",
     "href": "consulting.html",
     "title": "Consulting",
@@ -21,18 +7,11 @@
     "text": "I occasionally work as a statistical consultant on various projects, typically in the general areas of ecology and evolution. If you’d like to work with me please reach out to me and tell me what question’s you’re interested in answering and how I could possibly help improve your ability to answer those questions. Below are some of the people/organizations I have worked with and brief descriptions and links to some outcomes of the collaboration.\n\n\nSouthern Flounder Larval Development with Texas Parks and Wildlife Department\n\nPerform analyses to determine optimal salinity and temperature conditions in which to raise larval southern flounder\nIdentify differentially expressed genes in male and female southern flounder and analyze seasonal changes in expression levels\nIdentify experimental, methodological, environmental, and diet based factors associated with malpigmentation in developing southern flounder\n\nMetabolomic Predictors of Antibiotic Production\n\nUse non-antibiotic metabolic data to understand the amount of antibiotics produced by local subsurface microbes Mullis et al. in prep. In particular I used best subsets and lasso regressions to understand the relationship between non-antibiotic metabolites and microbial antibiotic production in a global set of samples accounting for sequencing/sampling effort.\n\n\n\n\nGeochemical/Microbial/Metabolic Associations in the Mariana Trench subsurface sediment layer\n\nThe extreme conditions found within the seafloor at the deepest part of the ocean provide a great insight into microbial life in the extremes Mullis et al. 2023. In particular using Canonical Correspondance Analyses to understand how geochemical features of the marine subsurface influence microbial metabolite production.\n\nNueces County/City of Corpus Christi/TAMUCC COVID Task Force\n\nLocalize and implement various COVID models (particularly the ICL model) during the early stages of the pandemic to inform the local government and populace of the disease dynamics locally. At the height of the pandemic these were broadcast weekly across various news organizations in the Coastal Bend (e.g. September 29, 2020)\n\n\n\n\nUse of Drones to Estimate Wildlife Counts on Spanish Farms with In-Nova Centro de Innovación\nBathymetric correlates of Humpback Whale singing behaviour\n\nHumpback whales are known to sing to communicate with each other. Using a variety of data collection methods and identification of Humpback whale groupings we were able to find that single male singing Humpbacks near Puerto Rico tend to associate with the shelf edge of an underwater canyon possibly using the canyon to amplify their song in an effort to attract mates MacKay et al. 2016. In particular I used a multinomial logistic regression to explain Humpback whale behavior with various local bathymetric and environmental variables."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Jason Selwyn",
+    "objectID": "teach.html",
+    "href": "teach.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDifferences in Fishery Survey Methods\n\n\n\n\n\n\n\nTesting\n\n\nFisheries\n\n\nT-Test\n\n\nBootstrap\n\n\nBayesian\n\n\n\n\nTesting Quarto features with a simple dataset\n\n\n\n\n\n\nJun 15, 2023\n\n\n13 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jason Selwyn",
-    "section": "",
-    "text": "Jason Selwyn\nHello!\nI’m a Postdoctoral Research Associate at the Marine Science Center at Northeastern University working in the lab of Dr. Steve Vollmer. My current research is focused on understanding the evolutionary history of the Staghorn Coral (Acropora cervicornis) and investigating the coral holobiont response to White Band Disease, particularly seeking to understand the genomic basis of disease resistance using genomic and transcriptomic techniques. I recieved my Ph.D. from Texas A&M University - Corpus Christi under the mentorship of Dr. Derek Hogan and Dr. Chris Bird. My dissertation research focused on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies Coryphopterus hyalinus/personatus."
+    "text": "Northeastern University\nInstructor: Marine Biology Research Project (EEMB 7674) Three Seas Program\n\n\nTexas A&M University - Corpus Christi\n\n\n\nBiology\nStatistics\n\n\n\n\nBiology I (BIOL 1406)\nStatistics for Life (MATH 1442)\n\n\nGenetics (BIOL 2416)\nStatistical Methods in Research I (MATH 6315)\n\n\nMicrobiology (BIOL 2421)\nStatistical Methods in Research II (MATH 6316)\n\n\nInvertebrate Zoology (BIOL 3413)\nMixed Effects Models for Scientists (MATH 6317)\n\n\nMarine Ecology (BIOL 4336)\nAn Introduction to Bayesian Statistics (MATH 6318)"
   },
   {
     "objectID": "publications.html",
@@ -42,11 +21,11 @@
     "text": "Publications\n\n11. Mullis, M. M., J. D. Selwyn, R. Kevorkian, E. D. Tague, H. F. Castro, S. R. Campagna, K. G. Lloyd, and B. K. Reese. 2023. Microbial survival mechanisms within serpentinizing Mariana forearc sediments. FEMS Microbiology Ecology 99:fiad003\n10. Selwyn J. D., Hunt E. P., Portnoy D. S., Hogan J. D. (2022) Maintenance of species boundaries within social aggregations of ecologically similar goby sister species. Marine Biology 169:32\n9. Rue, C. R.*†, J. D. Selwyn†, P. M. Cockett, B. Gillis, L. Gurski, P. Jose, B. L. Kutil, S. F. Magnuson, L. Á. L. de Mesa, R. D. Overath, D. L. Smee, and C. E. Bird. (2021). Genetic diversity across the mitochondrial genome of eastern oysters (Crassostrea virginica) in the northern Gulf of Mexico. PeerJ 9:e12205\n8. Beeken, N. S., J. D. Selwyn, and J. D. Hogan. (2021). Determining the life history strategy of the cryptobenthic reef gobies Coryphopterus hyalinus and C. personatus. Marine Ecology Progress Series 659:161–173\n7. Hamilton, A. M.*, J. D. Selwyn, R. M. Hamner, H. K. Johnson, T. Brown, S. K. Springer, and C. E. Bird. (2020). Biogeography of shell morphology in over-exploited shellfish reveals adaptive trade-offs on human-inhabited islands and incipient selectively driven lineage bifurcation. Journal of Biogeography 47:1494–1509\n6. Selwyn, J. D., J. E. Johnson, A. M. Downey-Wall, A. M. Bynum, R. M. Hamner, J. D. Hogan, and C. E. Bird. (2017). Simulations indicate that scores of lionfish (Pterois volitans) colonized the Atlantic Ocean. PeerJ 5:e3996\n5. Usseglio, P.†, J. D. Selwyn†, A. M. Downey-Wall, and J. D. Hogan. (2017). Effectiveness of removals of the invasive lionfish: how many dives are needed to deplete a reef? PeerJ 5:e3043\n4. Harborne, A. R., J. D. Selwyn, J. M. Lawson, and M. Gallo. (2017). Environmental drivers of diurnal visits by transient predatory fishes to Caribbean patch reefs. Journal of Fish Biology 90:265–282\n3. MacKay, M. M., B. Würsig, C. E. Bacon, and J. D. Selwyn. (2016). North Atlantic humpback whale (Megaptera novaeangliae) hotspots defined by bathymetric features off western Puerto Rico. Canadian Journal of Zoology 94:517–527\n2. Selwyn, J. D., J. D. Hogan, A. M. Downey-Wall, L. M. Gurski, D. S. Portnoy, and D. D. Heath. (2016). Kin-Aggregations Explain Chaotic Genetic Patchiness, a Commonly Observed Genetic Pattern, in a Marine Fish. PLOS ONE 11:e0153381\n1. Selwyn, J., J. D. Hogan, A. Downey-Wall, and P. Usseglio. (2014). Decadal changes in reef fish recruitment at Turneffe Atoll, Belize: before and after lionfish invasion. Pages 213–216 Proceedings of the 66th Gulf and Caribbean Fisheries Institute. Corpus Christi, Texas, USA\n*: Mentored Undergraduate †: Equal First Author\n\n\nIn Review & Revision\n1. Vollmer S. V.†, J. D. Selwyn†, B. A. Despard, C. L. Roesel. in review. Genomic signatures of disease resistance in endangered staghorn corals (adi3601). Science.\n2. Selwyn, J. D., P. Usseglio, and J. D. Hogan. in review. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.\n\n\nDissertation & Thesis\n1. Selwyn, J. D. 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. Ph.D. Dissertation\n2. Selwyn, J. D. 2015, July. How does Dispersal affect Chaos: Viscous Populations and Families in a Common Caribbean Goby (Coryphopterus personatus). Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. MS Thesis"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Selwyn",
     "section": "",
-    "text": "How is Dispersal Influenced by the Local Environment\n\n\n\nHabitat Quality (top), Heterogeneity (middle) influencing Dispersal, and 3D Model Belizean Reef (bottom).\n\n\n\n\n\n\n\n\n\n\n\n\n\nOne of my primary research intersts is understanding how the local habitat influences dispersal dynamics. I am using Coryphopterus hyalinus/personatus as a model system to understand these dynamics because, despite being generally poorly studied these two species contain characteristics making them an ideal study system for these questions. Namely, an abundant, short-lived sedentary adult life-history combined with generally localized dispersal behaviour. Part of understanding how habitat quality influences dispersal is to first understand what counts as “good” habitat from the perspective of the Coryphopterus themselves. To try and get a fish eye view of what makes a particular part of the coral reef a better/worse place for a Coryphopterus to live I used structure-from-motion photogrammetry to create 3D reef models which I then used to model the distribution of Coryphopterus on the reef."
+    "text": "Jason Selwyn\nHello!\nI’m a Postdoctoral Research Associate at the Marine Science Center at Northeastern University working in the lab of Dr. Steve Vollmer. My current research is focused on understanding the evolutionary history of the Staghorn Coral (Acropora cervicornis) and investigating the coral holobiont response to White Band Disease, particularly seeking to understand the genomic basis of disease resistance using genomic and transcriptomic techniques. I recieved my Ph.D. from Texas A&M University - Corpus Christi under the mentorship of Dr. Derek Hogan and Dr. Chris Bird. My dissertation research focused on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies Coryphopterus hyalinus/personatus."
   },
   {
     "objectID": "posts/first_post.html",
@@ -61,5 +40,26 @@
     "title": "About Me",
     "section": "",
     "text": "Jason earned his BS in Biology from Northeastern University. He then worked as a research assistant at the Cape Eleuthera Institute performing research on the effects of invasive lionfish on native fish communities. He started working with Dr. Derek Hogan at TAMUCC for his MS. Initially he planned to study if lionfish act as a strong selective pressure on native fishes. However, after what, in restrospect, was a fortunate series of events he transitioned to researching family groupings in Coryphopterus personatus. Realizing the abundance and presence of relatives in the same area makes for an interesting study species to look at dispersal and how the environment influences dispersal Jason decided to continue working with Derek at TAMUCC for his PhD to look into these questions.\njdselwyn(at)gmail(dot)com"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Differences in Fishery Survey Methods\n\n\n\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Jason Selwyn",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDifferences in Fishery Survey Methods\n\n\n\n\n\n\n\nTesting\n\n\nFisheries\n\n\nT-Test\n\n\nBootstrap\n\n\nBayesian\n\n\n\n\nTesting Quarto features with a simple dataset\n\n\n\n\n\n\nJun 15, 2023\n\n\n13 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "How is Dispersal Influenced by the Local Environment\n\n\n\nHabitat Quality (top), Heterogeneity (middle) influencing Dispersal, and 3D Model Belizean Reef (bottom).\n\n\n\n\n\n\n\n\n\n\n\n\n\nOne of my primary research intersts is understanding how the local habitat influences dispersal dynamics. I am using Coryphopterus hyalinus/personatus as a model system to understand these dynamics because, despite being generally poorly studied these two species contain characteristics making them an ideal study system for these questions. Namely, an abundant, short-lived sedentary adult life-history combined with generally localized dispersal behaviour. Part of understanding how habitat quality influences dispersal is to first understand what counts as “good” habitat from the perspective of the Coryphopterus themselves. To try and get a fish eye view of what makes a particular part of the coral reef a better/worse place for a Coryphopterus to live I used structure-from-motion photogrammetry to create 3D reef models which I then used to model the distribution of Coryphopterus on the reef."
   }
 ]
