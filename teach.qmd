@@ -9,6 +9,7 @@ title: "Teaching"
 Instructor: Marine Biology Research Project ([EEMB 7674](Marine%20Biology%20Research%20Project)) [Three Seas Program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/)
 
 # Texas A&M University - Corpus Christi
+Teaching Assistant
 
 |                                       Biology                                        |                                               Statistics                                               |
 |:-------------------------------:|:-------------------------------------:|
