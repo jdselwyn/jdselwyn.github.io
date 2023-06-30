@@ -38,7 +38,7 @@ page-layout: full
 
 1\. Vollmer S. V.^†^, **J. D. Selwyn**^†^, B. A. Despard, C. L. Roesel. in review. Genomic signatures of disease resistance in endangered staghorn corals (adi3601). Science.
 
-2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in review. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
+2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
 
 # Dissertation & Thesis
 1\. **Selwyn, J. D.** 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
