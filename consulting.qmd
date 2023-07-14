@@ -24,7 +24,7 @@ I occasionally work as a statistical consultant on various projects, typically i
     
 -   Nueces County/City of Corpus Christi/TAMUCC COVID Task Force
 
-    -   Localize and implement various COVID models (particularly the [ICL model]()) during the early stages of the pandemic to inform the local government and populace of the disease dynamics locally. At the height of the pandemic these were broadcast weekly across various news organizations in the Coastal Bend (e.g. [September 29, 2020](https://www.youtube.com/watch?v=WiuLnMt9uQU&t=33m23s))
+    -   Localize and implement various COVID models (particularly the [ICL model](https://github.com/ImperialCollegeLondon/covid19model)) during the early stages of the pandemic to inform the local government and populace of the disease dynamics locally. At the height of the pandemic these were broadcast weekly across various news organizations in the Coastal Bend (e.g. [September 29, 2020](https://www.youtube.com/watch?v=WiuLnMt9uQU&t=33m23s))
     
 <!-- - PORTNOY PROJECT HELP -->
     
