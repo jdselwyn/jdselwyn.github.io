@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jdselwyn.github.io/consulting.html</loc>
-    <lastmod>2023-07-05T13:38:59.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/teach.html</loc>
-    <lastmod>2023-07-05T13:38:58.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/publications.html</loc>
-    <lastmod>2023-07-05T13:38:57.576Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/index.html</loc>
-    <lastmod>2023-07-05T13:38:56.720Z</lastmod>
+    <loc>https://jdselwyn.github.io/archive.html</loc>
+    <lastmod>2023-07-14T13:34:37.821Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/posts/first_post.html</loc>
-    <lastmod>2023-07-05T13:38:55.640Z</lastmod>
+    <lastmod>2023-07-14T13:34:36.889Z</lastmod>
   </url>
   <url>
-    <loc>https://jdselwyn.github.io/me.html</loc>
-    <lastmod>2023-07-05T13:38:56.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/archive.html</loc>
-    <lastmod>2023-07-05T13:38:57.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/blog.html</loc>
-    <lastmod>2023-07-05T13:38:58.012Z</lastmod>
+    <loc>https://jdselwyn.github.io/publications.html</loc>
+    <lastmod>2023-07-14T13:34:12.897Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/research.html</loc>
-    <lastmod>2023-07-05T13:38:58.720Z</lastmod>
+    <lastmod>2023-07-14T13:34:11.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/index.html</loc>
+    <lastmod>2023-07-14T13:34:10.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/me.html</loc>
+    <lastmod>2023-07-14T13:34:11.541Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/consulting.html</loc>
+    <lastmod>2023-07-14T13:34:12.429Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/blog.html</loc>
+    <lastmod>2023-07-14T13:34:13.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/teach.html</loc>
+    <lastmod>2023-07-14T13:34:37.337Z</lastmod>
   </url>
 </urlset>
