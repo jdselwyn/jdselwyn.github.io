@@ -40,6 +40,8 @@ page-layout: full
 
 2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
 
+3\. **Selwyn, J. D.**, and S. V. Vollmer. in review. Whole genome assembly and annotation of the endangered Caribbean coral <i>Acropora cervicornis</i> (G3-2023-404531). G3 Genes|Genomes|Genetics.
+
 # Dissertation & Thesis
 1\. **Selwyn, J. D.** 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
 
