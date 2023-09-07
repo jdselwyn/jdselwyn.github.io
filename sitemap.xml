@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jdselwyn.github.io/archive.html</loc>
-    <lastmod>2023-07-14T13:34:37.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/posts/first_post.html</loc>
-    <lastmod>2023-07-14T13:34:36.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/publications.html</loc>
-    <lastmod>2023-07-14T13:34:12.897Z</lastmod>
+    <loc>https://jdselwyn.github.io/me.html</loc>
+    <lastmod>2023-09-07T14:20:00.413Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/research.html</loc>
-    <lastmod>2023-07-14T13:34:11.969Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/index.html</loc>
-    <lastmod>2023-07-14T13:34:10.689Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/me.html</loc>
-    <lastmod>2023-07-14T13:34:11.541Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/consulting.html</loc>
-    <lastmod>2023-07-14T13:34:12.429Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/blog.html</loc>
-    <lastmod>2023-07-14T13:34:13.469Z</lastmod>
+    <lastmod>2023-09-07T14:19:59.441Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/teach.html</loc>
-    <lastmod>2023-07-14T13:34:37.337Z</lastmod>
+    <lastmod>2023-09-07T14:19:58.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/index.html</loc>
+    <lastmod>2023-09-07T14:19:21.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/archive.html</loc>
+    <lastmod>2023-09-07T14:19:20.453Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/consulting.html</loc>
+    <lastmod>2023-09-07T14:19:21.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/posts/first_post.html</loc>
+    <lastmod>2023-09-07T14:19:57.989Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/publications.html</loc>
+    <lastmod>2023-09-07T14:19:59.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/blog.html</loc>
+    <lastmod>2023-09-07T14:19:59.997Z</lastmod>
   </url>
 </urlset>
