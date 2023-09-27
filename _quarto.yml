@@ -17,8 +17,8 @@ website:
         text: 'Research'
       - href: teach.qmd
         text: 'Teaching'
-      - href: consulting.qmd
-        text: 'Consulting'
+      #- href: consulting.qmd
+      #  text: 'Consulting'
       - text: Blog
         href: blog.qmd 
       - href: publications.qmd
