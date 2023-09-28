@@ -10,6 +10,9 @@ page-layout: full
 
 <!-- below are publications in order from most recent to least recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
 
+12\. Vollmer, S. V., **J. D. Selwyn**^†^, B. A. Despard, and C. L. Roesel. 2023. Genomic signatures of disease resistance in endangered staghorn corals. [Science 381:1451–1454](documents/Vollmer%20et%20al_2023_Genomic%20signatures%20of%20disease%20resistance%20in%20endangered staghorn%20corals.pdf)
+
+
 11\. Mullis, M. M., **J. D. Selwyn**, R. Kevorkian, E. D. Tague, H. F. Castro, S. R. Campagna, K. G. Lloyd, and B. K. Reese. 2023. Microbial survival mechanisms within serpentinizing Mariana forearc sediments. [FEMS Microbiology Ecology 99:fiad003](documents/Mullis%20et%20al_2023.pdf)
 
 10\. **Selwyn J. D.**, Hunt E. P., Portnoy D. S., Hogan J. D. (2022) Maintenance of species boundaries within social aggregations of ecologically similar goby sister species. [Marine Biology 169:32](documents/Selwyn_et_al-2022-Marine_Biology.pdf)
@@ -36,11 +39,9 @@ page-layout: full
 
 # In Review & Revision
 
-1\. Vollmer S. V.^†^, **J. D. Selwyn**^†^, B. A. Despard, C. L. Roesel. in review. Genomic signatures of disease resistance in endangered staghorn corals (adi3601). Science.
+1\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
 
-2\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
-
-3\. **Selwyn, J. D.**, and S. V. Vollmer. in review. Whole genome assembly and annotation of the endangered Caribbean coral <i>Acropora cervicornis</i> (G3-2023-404531). G3 Genes|Genomes|Genetics.
+2\. **Selwyn, J. D.**, and S. V. Vollmer. in review. Whole genome assembly and annotation of the endangered Caribbean coral <i>Acropora cervicornis</i> (G3-2023-404531). G3 Genes|Genomes|Genetics.
 
 # Dissertation & Thesis
 1\. **Selwyn, J. D.** 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
