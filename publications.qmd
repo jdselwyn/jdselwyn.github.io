@@ -10,7 +10,7 @@ page-layout: full
 
 <!-- below are publications in order from most recent to least recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
 
-12\. Vollmer, S. V., **J. D. Selwyn**^†^, B. A. Despard, and C. L. Roesel. 2023. Genomic signatures of disease resistance in endangered staghorn corals. [Science 381:1451–1454](documents/Vollmer%20et%20al_2023_Genomic%20signatures%20of%20disease%20resistance%20in%20endangered staghorn%20corals.pdf)
+12\. Vollmer, S. V.^†^, **J. D. Selwyn**^†^, B. A. Despard, and C. L. Roesel. 2023. Genomic signatures of disease resistance in endangered staghorn corals. [Science 381:1451–1454](documents/Vollmer%20et%20al_2023_Genomic%20signatures%20of%20disease%20resistance%20in%20endangered staghorn%20corals.pdf)
 
 
 11\. Mullis, M. M., **J. D. Selwyn**, R. Kevorkian, E. D. Tague, H. F. Castro, S. R. Campagna, K. G. Lloyd, and B. K. Reese. 2023. Microbial survival mechanisms within serpentinizing Mariana forearc sediments. [FEMS Microbiology Ecology 99:fiad003](documents/Mullis%20et%20al_2023.pdf)
