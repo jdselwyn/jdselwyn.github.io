@@ -14,7 +14,6 @@ page-layout: full
 
 12\. Vollmer, S. V.^†^, **J. D. Selwyn**^†^, B. A. Despard, and C. L. Roesel. 2023. Genomic signatures of disease resistance in endangered staghorn corals. [Science 381:1451–1454](documents/Vollmer%20et%20al_2023.pdf)
 
-
 11\. Mullis, M. M., **J. D. Selwyn**, R. Kevorkian, E. D. Tague, H. F. Castro, S. R. Campagna, K. G. Lloyd, and B. K. Reese. 2023. Microbial survival mechanisms within serpentinizing Mariana forearc sediments. [FEMS Microbiology Ecology 99:fiad003](documents/Mullis%20et%20al_2023.pdf)
 
 10\. **Selwyn J. D.**, Hunt E. P., Portnoy D. S., Hogan J. D. (2022) Maintenance of species boundaries within social aggregations of ecologically similar goby sister species. [Marine Biology 169:32](documents/Selwyn_et_al-2022-Marine_Biology.pdf)
