@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jdselwyn.github.io/consulting.html</loc>
-    <lastmod>2023-10-16T13:26:33.329Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/index.html</loc>
-    <lastmod>2023-10-16T13:26:05.873Z</lastmod>
-  </url>
-  <url>
     <loc>https://jdselwyn.github.io/research.html</loc>
-    <lastmod>2023-10-16T13:26:05.149Z</lastmod>
+    <lastmod>2023-11-02T11:25:35.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/consulting.html</loc>
+    <lastmod>2023-11-02T11:25:13.515Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/archive.html</loc>
-    <lastmod>2023-10-16T13:26:04.489Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/blog.html</loc>
-    <lastmod>2023-10-16T13:26:03.441Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/teach.html</loc>
-    <lastmod>2023-10-16T13:26:04.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdselwyn.github.io/me.html</loc>
-    <lastmod>2023-10-16T13:26:04.813Z</lastmod>
+    <lastmod>2023-11-02T11:25:12.831Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/publications.html</loc>
-    <lastmod>2023-10-16T13:26:05.553Z</lastmod>
+    <lastmod>2023-11-02T11:25:12.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/teach.html</loc>
+    <lastmod>2023-11-02T11:25:11.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/index.html</loc>
+    <lastmod>2023-11-02T11:25:11.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/me.html</loc>
+    <lastmod>2023-11-02T11:25:12.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdselwyn.github.io/blog.html</loc>
+    <lastmod>2023-11-02T11:25:13.167Z</lastmod>
   </url>
   <url>
     <loc>https://jdselwyn.github.io/posts/first_post.html</loc>
-    <lastmod>2023-10-16T13:26:32.933Z</lastmod>
+    <lastmod>2023-11-02T11:25:35.359Z</lastmod>
   </url>
 </urlset>
