@@ -40,7 +40,7 @@ page-layout: full
 
 # In Review & Revision
 
-1\. **Selwyn, J. D.**, B. A. Despard, M. V. Vollmer, E. C. Trytten, and S. V. Vollmer. in review. Machine Learning based identification of putative coral pathogens in endangered Caribbean staghorn coral (RSPB-2024-1235). Proceedings of the Royal Society B.
+1\. **Selwyn, J. D.**, B. A. Despard, M. V. Vollmer, E. C. Trytten, and S. V. Vollmer. in review. Machine Learning based identification of putative coral pathogens in endangered Caribbean staghorn coral (EMI-2024-0598). Environmental Microbiology.
 
 # Dissertation & Thesis
 1\. **Selwyn, J. D.** 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [Ph.D. Dissertation](documents/JSelwyn%20Dissertation_v5.pdf)
