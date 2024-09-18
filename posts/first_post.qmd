@@ -197,7 +197,9 @@ cmdstan_path()
 
 tmp <- read_lines('survey_method_analysis.stan')
 print(tmp)
-
+write_lines(tmp, str_c(getwd(), 'tst.stan', sep = '/'))
+bayes_model <- cmdstan_model(str_c(getwd(), 'tst.stan', sep = '/'))
+bayes_model
 ```
 
 
