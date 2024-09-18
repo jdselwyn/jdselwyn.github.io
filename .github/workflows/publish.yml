@@ -40,6 +40,10 @@ jobs:
       - name: List files (debug)
         run: ls -ltrhR
         
+      - name: Run model (debug2)
+        run: |
+          Rscript -e "mod <- cmdstanr::cmdstan_model('posts/survey_method_analysis.stan')"
+        
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
