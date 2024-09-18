@@ -8,10 +8,6 @@ name: Quarto Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    resources:
-      limits:
-        memory: 4G
-        cpus: 2
     permissions:
       contents: write
     steps:
