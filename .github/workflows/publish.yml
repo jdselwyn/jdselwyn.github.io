@@ -37,6 +37,9 @@ jobs:
           cmdstanr::install_cmdstan(cores = 2)
         shell: Rscript {0}
 
+      - name: List files (debug)
+        run: ls -R
+        
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
