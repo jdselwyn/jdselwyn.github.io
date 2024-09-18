@@ -24,7 +24,7 @@ jobs:
           
       - name: Dependencies on Linux
         if: runner.os == 'Linux'
-        run: sudo apt-get install -y make libicu-dev libxml2-dev libssl-dev pandoc librdf0-dev libnode-dev libcurl4-gnutls-dev libharfbuzz-dev libfribidi-dev
+        run: sudo apt-get install -y build-essential g++ make libicu-dev libxml2-dev libssl-dev pandoc librdf0-dev libnode-dev libcurl4-gnutls-dev libharfbuzz-dev libfribidi-dev
       
       - name: Install R Libraries
         uses: r-lib/actions/setup-renv@v2
@@ -38,7 +38,7 @@ jobs:
         shell: Rscript {0}
 
       - name: List files (debug)
-        run: ls -ltrhR
+        run: ls -ltrhR posts
         
       - name: Run model (debug2)
         run: |
