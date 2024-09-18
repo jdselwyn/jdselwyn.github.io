@@ -194,7 +194,8 @@ Sys.chmod(file.path(getwd(), 'survey_method_analysis.stan'), mode = "777")
 
 check_cmdstan_toolchain()
 cmdstan_path()
-bayes_model <- cmdstan_model(file.path(getwd(), 'survey_method_analysis.stan'))
+bayes_model <- cmdstan_model(file.path(getwd(), 'survey_method_analysis.stan'),
+                             compile = TRUE, verbose = TRUE)
 bayes_model
 ```
 
