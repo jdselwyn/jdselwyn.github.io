@@ -38,7 +38,7 @@ jobs:
         shell: Rscript {0}
 
       - name: List files (debug)
-        run: ls -R
+        run: ls -ltrhR
         
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
