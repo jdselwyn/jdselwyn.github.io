@@ -185,6 +185,12 @@ boot_plot
 ```
 
 Finally, lets use a Bayesian method. And because I want to practice coding in STAN we'll use that and run it with cmdstanr.
+
+```{r}
+print(getwd())
+```
+
+
 ```{r Bayesian\ Model, echo=TRUE, results = FALSE}
 #| code-fold: show
 

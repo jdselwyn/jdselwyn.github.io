@@ -10,6 +10,9 @@ page-layout: full
 
 <!-- below are publications in order from most recent to least recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
 
+14\. **Selwyn, J. D.**, B. A. Despard, M. V. Vollmer, E. C. Trytten, and S. V. Vollmer. 2024. Identification of putative coral pathogens in endangered Caribbean staghorn coral using machine learning. [Environmental Microbiology 26:e16700](documents/Selwyn%20et%20al_2024.pdf)
+
+
 13\. **Selwyn, J. D.**, and S. V. Vollmer. 2023. Whole genome assembly and annotation of the endangered Caribbean coral <i>Acropora cervicornis</i>. [G3 Genes|Genomes|Genetics:jkad232](documents/Selwyn%20and%20Vollmer%20-%202023.pdf)
 
 12\. Vollmer, S. V.^†^, **J. D. Selwyn**^†^, B. A. Despard, and C. L. Roesel. 2023. Genomic signatures of disease resistance in endangered staghorn corals. [Science 381:1451–1454](documents/Vollmer%20et%20al_2023.pdf)
@@ -40,9 +43,7 @@ page-layout: full
 
 # In Review & Revision
 
-1\. **Selwyn, J. D.**, B. A. Despard, M. V. Vollmer, E. C. Trytten, and S. V. Vollmer. in review. Machine Learning based identification of putative coral pathogens in endangered Caribbean staghorn coral (EMI-2024-0598). Environmental Microbiology.
-
-2\. **Selwyn, J. D.**, B. A. Despard, K. A. Galvan-Dubois, E. C. Trytten, and S. V. Vollmer. in review. Antibiotic Pretreatment Inhibits White Band Disease Infection by Suppressing the Bacterial Pathobiome. Frontiers in Marine Science.
+1\. **Selwyn, J. D.**, B. A. Despard, K. A. Galvan-Dubois, E. C. Trytten, and S. V. Vollmer. in review. Antibiotic Pretreatment Inhibits White Band Disease Infection by Suppressing the Bacterial Pathobiome. Frontiers in Marine Science.
 
 
 # Dissertation & Thesis
