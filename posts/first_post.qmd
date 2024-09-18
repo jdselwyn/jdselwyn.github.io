@@ -188,17 +188,11 @@ Finally, lets use a Bayesian method. And because I want to practice coding in ST
 
 ```{r}
 print(getwd())
-file.exists('survey_method_analysis.stan')
+file.exists(file.path(getwd(), 'survey_method_analysis.stan'))
 
 check_cmdstan_toolchain()
 cmdstan_path()
-# bayes_model <- cmdstan_model(str_c(getwd(), 'survey_method_analysis.stan', sep = '/'))
-# bayes_model
-
-tmp <- read_lines('survey_method_analysis.stan')
-print(tmp)
-write_lines(tmp, str_c(getwd(), 'tst.stan', sep = '/'))
-bayes_model <- cmdstan_model(str_c(getwd(), 'tst.stan', sep = '/'))
+bayes_model <- cmdstan_model(file.path(getwd(), 'survey_method_analysis.stan'))
 bayes_model
 ```
 
