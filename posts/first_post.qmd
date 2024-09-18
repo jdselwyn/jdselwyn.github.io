@@ -194,6 +194,10 @@ check_cmdstan_toolchain()
 cmdstan_path()
 # bayes_model <- cmdstan_model(str_c(getwd(), 'survey_method_analysis.stan', sep = '/'))
 # bayes_model
+
+tmp <- read_lines('survey_method_analysis.stan')
+print(tmp)
+
 ```
 
 
