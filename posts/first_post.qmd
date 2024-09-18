@@ -188,6 +188,7 @@ Finally, lets use a Bayesian method. And because I want to practice coding in ST
 
 ```{r}
 print(getwd())
+file.exists('survey_method_analysis.stan')
 ```
 
 
