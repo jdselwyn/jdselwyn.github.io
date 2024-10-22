@@ -19,16 +19,16 @@ website:
         text: 'Teaching'
       # - href: consulting.qmd
       #   text: 'Consulting'
-      - text: Blog
-        href: blog.qmd 
+      # - text: Blog
+      #   href: blog.qmd 
       - href: publications.qmd
         text: 'Publications'
       - href: me.qmd
         text: About Me
         
     right:
-      - text: Archive
-        href: archive.qmd
+      # - text: Archive
+      #   href: archive.qmd
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=3LC4ntQAAAAJ&hl=en 
       - icon: github
@@ -39,8 +39,8 @@ website:
         href: documents/Jason%20Selwyn%20Sp23%20CV.pdf
       - icon: twitter
         href: https://www.twitter.com/jasonselwyn
-      - icon: rss
-        href: blog.xml
+      # - icon: rss
+      #   href: blog.xml
 
 format:
   html:
