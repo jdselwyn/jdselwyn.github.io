@@ -187,7 +187,7 @@ boot_plot
 Finally, lets use a Bayesian method. And because I want to practice coding in STAN we'll use that and run it with cmdstanr.
 
 ```{r}
-# BROKEN PAST HERE - CANT GET GITHUB ACTION TO COMPILE THE STAN MODEL
+# BROKEN PAST HERE - CANT GET GITHUB ACTION TO COMPILE THE STAN MODEL 
 # print(getwd())
 # file.exists(file.path(getwd(), 'survey_method_analysis.stan'))
 # 
