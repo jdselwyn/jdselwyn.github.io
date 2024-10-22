@@ -36,7 +36,7 @@ website:
       - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0002-9100-217X
       - text: "{{< ai cv >}}"
-        href: documents/Jason%20Selwyn%20Sp23%20CV.pdf
+        href: documents/Jason%20Selwyn%20Fl24%20CV.pdf
       - icon: twitter
         href: https://www.twitter.com/jasonselwyn
       # - icon: rss
