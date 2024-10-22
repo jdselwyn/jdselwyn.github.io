@@ -187,13 +187,14 @@ boot_plot
 Finally, lets use a Bayesian method. And because I want to practice coding in STAN we'll use that and run it with cmdstanr.
 
 ```{r}
-print(getwd())
-file.exists(file.path(getwd(), 'survey_method_analysis.stan'))
-
-Sys.chmod(file.path(getwd(), 'survey_method_analysis.stan'), mode = "777")
-
-check_cmdstan_toolchain()
-cmdstan_path()
+# BROKEN PAST HERE - CANT GET GITHUB ACTION TO COMPILE THE STAN MODEL
+# print(getwd())
+# file.exists(file.path(getwd(), 'survey_method_analysis.stan'))
+# 
+# Sys.chmod(file.path(getwd(), 'survey_method_analysis.stan'), mode = "777")
+# 
+# check_cmdstan_toolchain()
+# cmdstan_path()
 # bayes_model <- cmdstan_model(file.path(getwd(), 'survey_method_analysis.stan'))
 # bayes_model
 ```
