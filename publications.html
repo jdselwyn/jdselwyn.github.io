@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5c67a7444eebc356e54fdce0a63e8750.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -189,6 +189,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="publications" class="level1">
 <h1>Publications</h1>
 <!-- below are publications in order from most recent to least recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
+<p>15. <strong>Selwyn, J. D.</strong>, B. A. Despard, K. A. Galvan-Dubois, E. C. Trytten, and S. V. Vollmer. 2025. Antibiotic pretreatment inhibits white band disease infection by suppressing the bacterial pathobiome. <a href="documents/Selwyn et al_2025-Frontiers.pdf">Frontiers in Marine Science 12:1–15</a></p>
 <p>14. <strong>Selwyn, J. D.</strong>, B. A. Despard, M. V. Vollmer, E. C. Trytten, and S. V. Vollmer. 2024. Identification of putative coral pathogens in endangered Caribbean staghorn coral using machine learning. <a href="documents/Selwyn et al_2024.pdf">Environmental Microbiology 26:e16700</a></p>
 <p>13. <strong>Selwyn, J. D.</strong>, and S. V. Vollmer. 2023. Whole genome assembly and annotation of the endangered Caribbean coral <i>Acropora cervicornis</i>. <a href="documents/Selwyn and Vollmer - 2023.pdf">G3 Genes|Genomes|Genetics:jkad232</a></p>
 <p>12. Vollmer, S. V.<sup>†</sup>, <strong>J. D. Selwyn</strong><sup>†</sup>, B. A. Despard, and C. L. Roesel. 2023. Genomic signatures of disease resistance in endangered staghorn corals. <a href="documents/Vollmer et al_2023.pdf">Science 381:1451–1454</a></p>
@@ -207,7 +208,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="in-review-revision" class="level1">
 <h1>In Review &amp; Revision</h1>
-<p>1. <strong>Selwyn, J. D.</strong>, B. A. Despard, K. A. Galvan-Dubois, E. C. Trytten, and S. V. Vollmer. in review. Antibiotic Pretreatment Inhibits White Band Disease Infection by Suppressing the Bacterial Pathobiome. Frontiers in Marine Science.</p>
+<p>1.</p>
 </section>
 <section id="dissertation-thesis" class="level1">
 <h1>Dissertation &amp; Thesis</h1>
@@ -348,8 +349,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -460,7 +459,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
