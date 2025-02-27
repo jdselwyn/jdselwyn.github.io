@@ -45,7 +45,7 @@ website:
         href: https://orcid.org/0000-0002-9100-217X
       - text: "{{< ai cv >}}"
         href: documents/Jason%20Selwyn%20SP25%20CV.pdf
-      - text: "{{< ri bluesky-fill >}}"
+      - text: "{{< iconify ri bluesky-fill >}}"
         href: https://bsky.app/profile/jasonselwyn.bsky.social
       - icon: twitter
         href: https://www.twitter.com/jasonselwyn
