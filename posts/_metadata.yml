@@ -19,3 +19,12 @@ toc: true
 toc-depth: 3
 
 page-layout: article
+
+# Chose what to render - 
+#https://quarto.org/docs/websites/index.html#render-targets
+project:
+  render:
+    - "*.qmd"
+    - "!blog.qmd"
+    - "!archive.qmd"
+    - "!posts/"
