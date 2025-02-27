@@ -8,6 +8,8 @@ listing:
   fields: [date, title]
   sort: 'date desc'
 ---
+
+```{=html}
 <style>
 html {
    background: url(img/reefscape.jpg);
@@ -44,3 +46,4 @@ body {
   }
 }
 </style>
+```

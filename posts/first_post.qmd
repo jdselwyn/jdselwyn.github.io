@@ -10,14 +10,14 @@ editor_options:
   chunk_output_type: console
 ---
 
-
 I'm mostly testing out Quarto features and seeing how things render based on [this tutorial](https://albert-rapp.de/posts/13_quarto_blog_writing_guide/13_quarto_blog_writing_guide.html). For some example data/something to work with I'm using this [reddit post](https://www.reddit.com/r/AskStatistics/comments/fgkm5m/compare_significance_of_two_fisheries_by_day_of) comparing estimated catch per unit effort ([CPUE](https://en.wikipedia.org/wiki/Catch_per_unit_effort)) of a target fishery based on two different survey techniques. The provided data is the mean daily CPUE for each day of the week for each survey type. We'll assume these techniques were conducted in parallel and treat this as paired data with the goal Census and Roving methods to estimate the same "true" CPUE on a given day. As such we'll use a paired T-Test for the analysis and do the same analysis three different ways.
 
-1. Paired T-Test
-2. Bootstrap
-3. Bayesian
+1.  Paired T-Test
+2.  Bootstrap
+3.  Bayesian
 
-First we'll load the libraries we want to use for the analysis 
+First we'll load the libraries we want to use for the analysis
+
 ```{r, Libraries, warning=FALSE}
 library(tidyverse)
 library(magrittr)
@@ -27,6 +27,7 @@ library(patchwork)
 ```
 
 Next create the dataframe in the format from the post and then convert to a generally more R friendly tidy format.
+
 ```{r Create\ Data}
 #| code-fold: show
 the_data <- tibble(day = factor(c("Saturday", "Sunday", "Monday", "Tuesday", 
@@ -46,6 +47,7 @@ long_data <- the_data %>%
 ```
 
 Lets see what we're looking at!
+
 ```{r Plot\ Data}
 long_data %>%
   ggplot(aes(x = survey_method, y = cpue, colour = day)) +
@@ -67,6 +69,7 @@ long_data %>%
         legend.text = element_text(colour = 'black', size = 12),
         legend.title = element_text(colour = 'black', size = 18))
 ```
+
 It looks like there is probably a fairly large difference between the census method and the roving method in estimating the CPUE on any given day.
 
 Now that we have the data setup and have looked at the raw data lets analyze it to see if the difference we observe is statistically significant. First we'll use one of the first tests learned in most statistics classes, a (paired) T-Test.
@@ -78,7 +81,7 @@ the_t_test <- with(the_data, t.test(census_mean_cpue, roving_mean_cpue, paired =
 the_t_test
 ```
 
-It looks like there is a significant (p = 0.00098) difference between the estimates reported for the two survey methods. The average difference in CPUE between the two methods is ~0.79 CPUE. One thing that I like to include in plots is confidence intervals of various plotted means. Since we want to plot the mean CPUE from each survey method we'll calculate those intervals using a mirrored method to how we test if there is a significant difference (eg. here with two T based confidence intervals).
+It looks like there is a significant (p = 0.00098) difference between the estimates reported for the two survey methods. The average difference in CPUE between the two methods is \~0.79 CPUE. One thing that I like to include in plots is confidence intervals of various plotted means. Since we want to plot the mean CPUE from each survey method we'll calculate those intervals using a mirrored method to how we test if there is a significant difference (eg. here with two T based confidence intervals).
 
 ```{r T\ Confidence\ Intervals}
 method_T <- long_data %>%
@@ -125,8 +128,8 @@ t_plot <- long_data %>%
 t_plot
 ```
 
-
 Now lets repeat that analysis using a bootstrap appraoch to see if there is evidence of significant differences.
+
 ```{r Paired\ Bootstrap, echo=TRUE}
 #| code-fold: show
 paired_boot <- function(){
@@ -137,7 +140,6 @@ paired_boot <- function(){
 boot_diffs <- replicate(1000, paired_boot())
 
 ```
-
 
 ```{r Bootstrap\ Confidence\ Intervals, echo=TRUE}
 method_boot <- long_data %>%
@@ -199,7 +201,6 @@ Finally, lets use a Bayesian method. And because I want to practice coding in ST
 # bayes_model
 ```
 
-
 ```{r Bayesian\ Model, echo=TRUE, results = FALSE}
 #| code-fold: show
 
@@ -230,7 +231,6 @@ Finally, lets use a Bayesian method. And because I want to practice coding in ST
 #          conf.low = `2.5%`,
 #          conf.high = `97.5%`)
 ```
-
 
 ```{r Plot\ Bayesian\ Model}
 # annotation_bayes_results <- str_c('Census - Roving CPUE: ',
@@ -268,9 +268,8 @@ Finally, lets use a Bayesian method. And because I want to practice coding in ST
 # bayes_plot
 ```
 
-
-
 Now we'll put all the plots together into one figure
+
 ```{r All\ Plots}
 # (t_plot +
 #    labs(caption = 'Analysis: Paired T-Test\nIntervals: T-Test 95%') +
@@ -296,4 +295,3 @@ Now we'll put all the plots together into one figure
 #        theme = theme(plot.title = element_text(colour = 'black', size = 20),
 #         plot.subtitle = element_text(colour = 'black', size = 16)))
 ```
-

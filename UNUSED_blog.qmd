@@ -11,6 +11,8 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+
+```{=html}
 <style>
 html {
    background: url(img/reefscape.jpg);
@@ -47,3 +49,4 @@ body {
   }
 }
 </style>
+```
