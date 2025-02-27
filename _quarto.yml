@@ -1,6 +1,14 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!blog.qmd"
+    - "!archive.qmd"
+    - "!posts/"
+#
+# Chose what to render - 
+#https://quarto.org/docs/websites/index.html#render-targets
 
 website:
   title: "Jason Selwyn"
