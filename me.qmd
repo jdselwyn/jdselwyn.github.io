@@ -13,3 +13,12 @@ Jason earned his BS in Biology from [Northeastern University](https://www.northe
 jdselwyn(at)gmail(dot)com
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XZNV2B7VTX');
+</script>

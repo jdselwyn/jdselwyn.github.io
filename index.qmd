@@ -9,6 +9,8 @@ toc: false
 # Jason Selwyn
 Hello!
 
+I'm the Associate Research Scientist running bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/)
+
 I'm a Postdoctoral Research Associate at the [Marine Science Center](https://cos.northeastern.edu/marinescience/) at  [Northeastern University](https://www.northeastern.edu/) working in the lab of Dr. [Steve Vollmer](https://web.northeastern.edu/vollmerlab/). My current research is focused on understanding the evolutionary history of the [Staghorn Coral](https://en.wikipedia.org/wiki/Staghorn_coral) (<i>Acropora cervicornis</i>) and investigating the coral holobiont response to [White Band Disease](https://en.wikipedia.org/wiki/White_band_disease), particularly seeking to understand the genomic basis of disease resistance using genomic and transcriptomic techniques. I recieved my Ph.D. from [Texas A&M University - Corpus Christi](https://tamucc.edu/) under the mentorship of Dr. [Derek Hogan](https://derekhoganresearch.wordpress.com/) and Dr. [Chris Bird](https://www.tamucc.edu/science/research/genomics/). My dissertation research focused on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies <i>Coryphopterus hyalinus</i>/<i>personatus</i>.
 
 

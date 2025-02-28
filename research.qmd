@@ -34,6 +34,17 @@ One of my primary research intersts is understanding how the local habitat influ
 
 <br><br><br><br><br><br>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XZNV2B7VTX');
+</script>
+
+
 <!-- ### **What are the evolutionary impacts of living near close relatives?** -->
 <!-- <table class="image" align="right"> -->
 <!-- <caption align="bottom">Family Networks of <i>C. hyalinus</i>.</caption> -->
