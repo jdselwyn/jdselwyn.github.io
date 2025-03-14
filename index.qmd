@@ -7,11 +7,17 @@ toc: false
 <!-- TODO - fix font, remove nav bar on right, have name centered, have text all within fade out part of image -->
 
 # Jason Selwyn
+
 Hello!
 
-I'm the Associate Research Scientist running bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/)
+I’m currently an Associate Research Scientist leading bioinformatics analyses at the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/). My research expertise encompasses marine genomics, evolutionary biology, and bioinformatics, with recent projects focusing on using eDNA and metabarcoding to characterize species distributions and diets, and whole genomic analyses to understand the influence of fishing on selective pressures and morphometric changes in targeted populations.
 
-I'm a Postdoctoral Research Associate at the [Marine Science Center](https://cos.northeastern.edu/marinescience/) at  [Northeastern University](https://www.northeastern.edu/) working in the lab of Dr. [Steve Vollmer](https://web.northeastern.edu/vollmerlab/). My current research is focused on understanding the evolutionary history of the [Staghorn Coral](https://en.wikipedia.org/wiki/Staghorn_coral) (<i>Acropora cervicornis</i>) and investigating the coral holobiont response to [White Band Disease](https://en.wikipedia.org/wiki/White_band_disease), particularly seeking to understand the genomic basis of disease resistance using genomic and transcriptomic techniques. I recieved my Ph.D. from [Texas A&M University - Corpus Christi](https://tamucc.edu/) under the mentorship of Dr. [Derek Hogan](https://derekhoganresearch.wordpress.com/) and Dr. [Chris Bird](https://www.tamucc.edu/science/research/genomics/). My dissertation research focused on understanding the interaction between habitat quality and dispersal dynamics in the Caribbean reef gobies <i>Coryphopterus hyalinus</i>/<i>personatus</i>.
+Previously, as a Postdoctoral Research Associate at the [Marine Science Center](https://cos.northeastern.edu/marinescience/) at  [Northeastern University](https://www.northeastern.edu/) in Dr. [Steve Vollmer's lab](https://web.northeastern.edu/vollmerlab/), I used genomic and transcriptomic approaches to understand coral holobiont responses to White Band Disease in endangered Caribbean staghorn coral ([*Acropora cervicornis*](https://en.wikipedia.org/wiki/Staghorn_coral)). This included identifying genomic signatures associated with disease resistance and pathogen identification using advanced genomic techniques and machine learning.
+
+I completed my Ph.D. in Marine Biology at [Texas A&M University - Corpus Christi](https://tamucc.edu/), where my dissertation explored the interplay between habitat quality and dispersal dynamics in Caribbean reef gobies (*Coryphopterus hyalinus/personatus*).
+
+Currently, I serve as an Associate Research Scientist managing bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/), and I'm passionate about leveraging genomic tools and advanced statistical techniques to address critical questions in marine conservation and ecosystem health.
+
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
