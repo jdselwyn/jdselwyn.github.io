@@ -31,8 +31,8 @@ website:
       #   href: blog.qmd 
       - href: publications.qmd
         text: 'Publications'
-      - href: me.qmd
-        text: About Me
+      # - href: me.qmd
+        # text: About Me
         
     right:
       # - text: Archive
