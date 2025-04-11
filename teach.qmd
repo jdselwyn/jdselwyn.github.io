@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+format: html
+toc: true
 ---
 
 <!-- TODO - fix font, have name centered, have text all within fade out part of image, update text, add NEU 3seas -->
