@@ -44,7 +44,7 @@ body {
 
 /* Style for the main content to add the background only to the text area */
 .content-container {
-   background: rgba(255,255,255, 0.5);
+   background: rgba(255,255,255, 0.75);
    max-width: 1000px; /* Wider content area */
    margin: 30px auto;
    padding: 30px 40px;

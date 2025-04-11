@@ -4,20 +4,45 @@ title: "Teaching"
 
 <!-- TODO - fix font, have name centered, have text all within fade out part of image, update text, add NEU 3seas -->
 
-# Northeastern University
+<div class="content-container">
+  <h1>Northeastern University</h1>
 
-Instructor: Marine Biology Research Project ([EEMB 7674](https://catalog.northeastern.edu/course-descriptions/eemb/)) [Three Seas Program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/)
+  <p>Instructor: Marine Biology Research Project (<a href="https://catalog.northeastern.edu/course-descriptions/eemb/">EEMB 7674</a>) <a href="https://cos.northeastern.edu/marine-environmental-sciences/three-seas/">Three Seas Program</a></p>
 
-# Texas A&M University - Corpus Christi
-Teaching Assistant
+  <h1>Texas A&M University - Corpus Christi</h1>
+  <p>Teaching Assistant</p>
 
-|                                       Biology                                        |                                               Statistics                                               |
-|:-------------------------------:|:-------------------------------------:|
-|      Biology I ([BIOL 1406](https://catalog.tamucc.edu/search/?P=BIOL%201406))       |          Statistics for Life ([MATH 1442](https://catalog.tamucc.edu/search/?P=MATH%201442))           |
-|       Genetics ([BIOL 2416](https://catalog.tamucc.edu/search/?P=BIOL%202416))       |   Statistical Methods in Research I ([MATH 6315](https://catalog.tamucc.edu/search/?P=MATH%206315))    |
-|     Microbiology ([BIOL 2421](https://catalog.tamucc.edu/search/?P=BIOL%202421))     |   Statistical Methods in Research II ([MATH 6316](https://catalog.tamucc.edu/search/?P=MATH%206316))   |
-| Invertebrate Zoology ([BIOL 3413](https://catalog.tamucc.edu/search/?P=BIOL%203413)) |  Mixed Effects Models for Scientists ([MATH 6317](https://catalog.tamucc.edu/search/?P=MATH%206317))   |
-|    Marine Ecology ([BIOL 4336](https://catalog.tamucc.edu/search/?P=BIOL%204336))    | An Introduction to Bayesian Statistics ([MATH 6318](https://catalog.tamucc.edu/search/?P=MATH%206318)) |
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align:center">Biology</th>
+        <th style="text-align:center">Statistics</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align:center">Biology I (<a href="https://catalog.tamucc.edu/search/?P=BIOL%201406">BIOL 1406</a>)</td>
+        <td style="text-align:center">Statistics for Life (<a href="https://catalog.tamucc.edu/search/?P=MATH%201442">MATH 1442</a>)</td>
+      </tr>
+      <tr>
+        <td style="text-align:center">Genetics (<a href="https://catalog.tamucc.edu/search/?P=BIOL%202416">BIOL 2416</a>)</td>
+        <td style="text-align:center">Statistical Methods in Research I (<a href="https://catalog.tamucc.edu/search/?P=MATH%206315">MATH 6315</a>)</td>
+      </tr>
+      <tr>
+        <td style="text-align:center">Microbiology (<a href="https://catalog.tamucc.edu/search/?P=BIOL%202421">BIOL 2421</a>)</td>
+        <td style="text-align:center">Statistical Methods in Research II (<a href="https://catalog.tamucc.edu/search/?P=MATH%206316">MATH 6316</a>)</td>
+      </tr>
+      <tr>
+        <td style="text-align:center">Invertebrate Zoology (<a href="https://catalog.tamucc.edu/search/?P=BIOL%203413">BIOL 3413</a>)</td>
+        <td style="text-align:center">Mixed Effects Models for Scientists (<a href="https://catalog.tamucc.edu/search/?P=MATH%206317">MATH 6317</a>)</td>
+      </tr>
+      <tr>
+        <td style="text-align:center">Marine Ecology (<a href="https://catalog.tamucc.edu/search/?P=BIOL%204336">BIOL 4336</a>)</td>
+        <td style="text-align:center">An Introduction to Bayesian Statistics (<a href="https://catalog.tamucc.edu/search/?P=MATH%206318">MATH 6318</a>)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 format: html
@@ -36,28 +61,53 @@ format: html
 
 ```{=html}
 <style>
-html {
-   background: url(img/barrel_sponge.jpg);
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-attachment: fixed;
- }
-
 body {
    color: black;
-   position: absolute; 
-   top: 30%; 
-   left: 0; 
-   width: 100%; 
-   background: rgba(255,255,255, .8);;
+   margin: 0;
+   padding: 0;
+   background: transparent;
 }
 
-table, th, td {
+.content-container {
+   background: rgba(255,255,255, 0.8);
+   max-width: 1000px;
+   margin: 30px auto;
+   padding: 30px 40px;
+   border-radius: 8px;
+   box-sizing: border-box;
+}
+
+table {
+   width: 100%;
+   border-collapse: collapse;
+   margin: 20px 0;
+}
+
+th, td {
    color: black;
    text-align: center;
+   padding: 8px;
+   border: 1px solid rgba(0,0,0,0.1);
 }
 
+@media screen and (max-width: 480px) {
+    html {
+     background: url(img/barrel_sponge.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+    }
+    
+    .content-container {
+     width: 95%;
+     margin: 10px auto;
+     padding: 20px;
+    }
+    
+    table {
+      font-size: 14px;
+    }
 }
 </style>
 ```
