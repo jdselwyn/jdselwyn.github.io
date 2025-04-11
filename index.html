@@ -208,21 +208,19 @@ html {
 
 body {
    color: black;
-   /* Remove position: absolute which was causing the background to extend */
-   margin: 0 auto; /* Center the content */
-   max-width: 800px; /* Limit width of content area */
-   padding: 20px 40px; /* Add padding inside the content area */
-   background: rgba(255,255,255, .5); /* Keep the semi-transparent background */
+   margin: 0;
+   padding: 0;
+   background: transparent; /* Remove background from body */
 }
 
 /* Style for the main content to add the background only to the text area */
 .content-container {
-   background: rgba(255,255,255, .5);
-   padding: 30px;
-   border-radius: 10px; /* Optional: rounds the corners */
+   background: rgba(255,255,255, 0.5);
+   max-width: 1000px; /* Wider content area */
    margin: 30px auto;
-   width: 80%;
-   max-width: 800px;
+   padding: 30px 40px;
+   border-radius: 8px; /* Optional: adds rounded corners */
+   box-sizing: border-box;
 }
 
 @media screen and (max-width: 480px) {
@@ -233,8 +231,10 @@ body {
      background-position: center;
      background-repeat: no-repeat;
     }
+    
     .content-container {
-     width: 90%;
+     width: 95%;
+     margin: 10px auto;
      padding: 20px;
     }
 }
