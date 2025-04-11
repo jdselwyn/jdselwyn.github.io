@@ -79,6 +79,10 @@ th, td {
    border: 1px solid rgba(0,0,0,0.7);
 }
 
+gutter {
+  width: 0.5
+} 
+
 @media screen and (max-width: 480px) {
     html {
      background: url(img/barrel_sponge.jpg);
