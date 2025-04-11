@@ -1,23 +1,23 @@
 ---
-title: "Jason Selwyn"
+  title: "Jason Selwyn"
 format: html
 toc: false
 ---
-
-<!-- TODO - fix font, remove nav bar on right, have name centered, have text all within fade out part of image -->
-
-<div class="content-container">
-<h1>Jason Selwyn</h1>
-
-<p>Hello!</p>
-
-<p>I'm currently an Associate Research Scientist leading bioinformatics analyses at the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/). My research expertise encompasses marine genomics, evolutionary biology, and bioinformatics, with recent projects focusing on using eDNA and metabarcoding to characterize species distributions and diets, and whole genomic analyses to understand the influence of fishing on selective pressures and morphometric changes in targeted populations.</p>
+  
+  <!-- TODO - fix font, remove nav bar on right, have name centered, have text all within fade out part of image -->
+  
+  <div class="content-container">
+  <h1>Jason Selwyn</h1>
+  
+  <p>Hello!</p>
+  
+  <p>I'm currently an Associate Research Scientist leading bioinformatics analyses at the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/). My research expertise encompasses marine genomics, evolutionary biology, and bioinformatics, with recent projects focusing on using eDNA and metabarcoding to characterize species distributions and diets, and whole genomic analyses to understand the influence of fishing on selective pressures and morphometric changes in targeted populations.</p>
 
 <p>Previously, as a Postdoctoral Research Associate at the [Marine Science Center](https://cos.northeastern.edu/marinescience/) at [Northeastern University](https://www.northeastern.edu/) in Dr. [Steve Vollmer's lab](https://web.northeastern.edu/vollmerlab/), I used genomic and transcriptomic approaches to understand coral holobiont responses to White Band Disease in endangered Caribbean staghorn coral ([*Acropora cervicornis*](https://en.wikipedia.org/wiki/Staghorn_coral)). This included identifying genomic signatures associated with disease resistance and pathogen identification using advanced genomic techniques and machine learning.</p>
-
-<p>I completed my Ph.D. in Marine Biology at [Texas A&M University - Corpus Christi](https://tamucc.edu/), where my dissertation explored the interplay between habitat quality and dispersal dynamics in Caribbean reef gobies (*Coryphopterus hyalinus/personatus*).</p>
-
-<p>Currently, I serve as an Associate Research Scientist managing bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/), and I'm passionate about leveraging genomic tools and advanced statistical techniques to address critical questions in marine conservation and ecosystem health.</p>
+  
+  <p>I completed my Ph.D. in Marine Biology at [Texas A&M University - Corpus Christi](https://tamucc.edu/), where my dissertation explored the interplay between habitat quality and dispersal dynamics in Caribbean reef gobies (*Coryphopterus hyalinus/personatus*).</p>
+  
+  <p>Currently, I serve as an Associate Research Scientist managing bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/), and I'm passionate about leveraging genomic tools and advanced statistical techniques to address critical questions in marine conservation and ecosystem health.</p>
 
 </div>
 
@@ -27,6 +27,7 @@ toc: false
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
 ```
 ```{=html}
+<style>
 html {
    background: url(img/planktivores.jpg);
    background-position: center;
