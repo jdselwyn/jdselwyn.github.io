@@ -28,7 +28,7 @@ toc: false
 ```{=html}
 <style>
 html {
-   background: url(img/barrel_sponge.jpg);
+   background: url(img/planktivores.jpg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -37,39 +37,24 @@ html {
 
 body {
    color: black;
-   /* Remove any background from body */
-   background: transparent;
-   /* Remove any positioning that might affect the layout */
-   position: static;
    margin: 0;
    padding: 0;
+   background: transparent; /* Remove background from body */
 }
 
+/* Style for the main content to add the background only to the text area */
 .content-container {
-   background: rgba(255,255,255, 0.8);
-   max-width: 1000px;
-   margin: 50px auto;
+   background: rgba(255,255,255, 0.75);
+   max-width: 1000px; /* Wider content area */
+   margin: 30px auto;
    padding: 30px 40px;
-   border-radius: 8px;
+   border-radius: 8px; /* Optional: adds rounded corners */
    box-sizing: border-box;
-}
-
-table {
-   width: 100%;
-   border-collapse: collapse;
-   margin: 20px 0;
-}
-
-th, td {
-   color: black;
-   text-align: center;
-   padding: 8px;
-   border: 1px solid rgba(0,0,0,0.1);
 }
 
 @media screen and (max-width: 480px) {
     html {
-     background: url(img/barrel_sponge.jpg);
+     background: url(img/planktivores.jpg);
      background-size: cover;
      background-attachment: fixed;
      background-position: center;
@@ -80,10 +65,6 @@ th, td {
      width: 95%;
      margin: 10px auto;
      padding: 20px;
-    }
-    
-    table {
-      font-size: 14px;
     }
 }
 </style>
