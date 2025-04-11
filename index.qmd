@@ -6,46 +6,52 @@ toc: false
 
 <!-- TODO - fix font, remove nav bar on right, have name centered, have text all within fade out part of image -->
 
-# Jason Selwyn
+<div class="content-container">
+<h1>Jason Selwyn</h1>
 
-Hello!
+<p>Hello!</p>
 
-I’m currently an Associate Research Scientist leading bioinformatics analyses at the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/). My research expertise encompasses marine genomics, evolutionary biology, and bioinformatics, with recent projects focusing on using eDNA and metabarcoding to characterize species distributions and diets, and whole genomic analyses to understand the influence of fishing on selective pressures and morphometric changes in targeted populations.
+<p>I'm currently an Associate Research Scientist leading bioinformatics analyses at the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/). My research expertise encompasses marine genomics, evolutionary biology, and bioinformatics, with recent projects focusing on using eDNA and metabarcoding to characterize species distributions and diets, and whole genomic analyses to understand the influence of fishing on selective pressures and morphometric changes in targeted populations.</p>
 
-Previously, as a Postdoctoral Research Associate at the [Marine Science Center](https://cos.northeastern.edu/marinescience/) at  [Northeastern University](https://www.northeastern.edu/) in Dr. [Steve Vollmer's lab](https://web.northeastern.edu/vollmerlab/), I used genomic and transcriptomic approaches to understand coral holobiont responses to White Band Disease in endangered Caribbean staghorn coral ([*Acropora cervicornis*](https://en.wikipedia.org/wiki/Staghorn_coral)). This included identifying genomic signatures associated with disease resistance and pathogen identification using advanced genomic techniques and machine learning.
+<p>Previously, as a Postdoctoral Research Associate at the [Marine Science Center](https://cos.northeastern.edu/marinescience/) at [Northeastern University](https://www.northeastern.edu/) in Dr. [Steve Vollmer's lab](https://web.northeastern.edu/vollmerlab/), I used genomic and transcriptomic approaches to understand coral holobiont responses to White Band Disease in endangered Caribbean staghorn coral ([*Acropora cervicornis*](https://en.wikipedia.org/wiki/Staghorn_coral)). This included identifying genomic signatures associated with disease resistance and pathogen identification using advanced genomic techniques and machine learning.</p>
 
-I completed my Ph.D. in Marine Biology at [Texas A&M University - Corpus Christi](https://tamucc.edu/), where my dissertation explored the interplay between habitat quality and dispersal dynamics in Caribbean reef gobies (*Coryphopterus hyalinus/personatus*).
+<p>I completed my Ph.D. in Marine Biology at [Texas A&M University - Corpus Christi](https://tamucc.edu/), where my dissertation explored the interplay between habitat quality and dispersal dynamics in Caribbean reef gobies (*Coryphopterus hyalinus/personatus*).</p>
 
-Currently, I serve as an Associate Research Scientist managing bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/), and I'm passionate about leveraging genomic tools and advanced statistical techniques to address critical questions in marine conservation and ecosystem health.
+<p>Currently, I serve as an Associate Research Scientist managing bioinformatic analyses for the [Genomics CORE Laboratory](https://www.tamucc.edu/science/research/genomics/) at [Texas A&M University - Corpus Christi](https://tamucc.edu/), and I'm passionate about leveraging genomic tools and advanced statistical techniques to address critical questions in marine conservation and ecosystem health.</p>
 
-
+</div>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XZNV2B7VTX');
-</script>
-
-<style>
+```
+```{=html}
 html {
    background: url(img/planktivores.jpg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
- }
+}
 
 body {
    color: black;
-   position: absolute; 
-   top: 30%; 
-   left: 0; 
-   width: 100%; 
-   background: rgba(255,255,255, .5);;
+   /* Remove position: absolute which was causing the background to extend */
+   margin: 0 auto; /* Center the content */
+   max-width: 800px; /* Limit width of content area */
+   padding: 20px 40px; /* Add padding inside the content area */
+   background: rgba(255,255,255, .5); /* Keep the semi-transparent background */
+}
+
+/* Style for the main content to add the background only to the text area */
+.content-container {
+   background: rgba(255,255,255, .5);
+   padding: 30px;
+   border-radius: 10px; /* Optional: rounds the corners */
+   margin: 30px auto;
+   width: 80%;
+   max-width: 800px;
 }
 
 @media screen and (max-width: 480px) {
@@ -56,13 +62,10 @@ body {
      background-position: center;
      background-repeat: no-repeat;
     }
-    body {
-     color: black;
-     left: 0;
-     top: 0;
-     bottom: 0;
-     width: 100%; 
-     background: rgba(255,255,255, .8);
-  }
+    .content-container {
+     width: 90%;
+     padding: 20px;
+    }
 }
 </style>
+```
