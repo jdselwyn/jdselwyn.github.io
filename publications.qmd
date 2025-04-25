@@ -9,6 +9,8 @@ page-layout: full
 # Publications
 
 <!-- below are publications in order from most recent to least recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
+17\. Despard, B. A., **J. D. Selwyn**, A. N. Shupp, and S. V. Vollmer. 2025. A Network Approach to White Band Disease Challenged Staghorn Coral Acropora cervicornis microRNAs and Their Targets. [Ecology and Evolution 15:e71351](documents/Despard%20et%20al_2025.pdf).
+
 16\. Hogan, J. D., **J. D. Selwyn**, and C. M. Taylor. 2025. Long-Term Changes in Fish Assemblage Structure Associated with Hydrological Alteration in the Lower Rio Grande/Rio Bravo del Norte (USA/Mexico). [Ichthyology & Herpetology 113:94–103](documents/Hogan%20et%20al_2025.pdf).
 
 15\. **Selwyn, J. D.**, B. A. Despard, K. A. Galvan-Dubois, E. C. Trytten, and S. V. Vollmer. 2025. Antibiotic pretreatment inhibits white band disease infection by suppressing the bacterial pathobiome. [Frontiers in Marine Science 12:1–15](documents/Selwyn%20et%20al_2025-Frontiers.pdf)
