@@ -4,11 +4,12 @@ format:
   html:
     toc: true
     toc-location: right
-page-layout: full
+    toc-title: "Table of Contents"
+    css: styles.css
+page-layout: article
 ---
 
-::: {.container}
-::: {.content-section}
+<!-- Publications list with correct markdown -->
 # Publications
 
 <!-- below are publications in order from most recent to least recent with the actual publication hyperlinked within the journal name, My name is bolded. need to add "\" after number to not have markdown make into auto-numbered list-->
@@ -58,7 +59,6 @@ page-layout: full
 
 2\. **Selwyn, J. D.** 2015, July. How does Dispersal affect Chaos: Viscous Populations and Families in a Common Caribbean Goby (<i>Coryphopterus personatus</i>). Texas A&M University - Corpus Christi, Corpus Christi, Texas, USA. [MS Thesis](documents/JSelwyn%20Thesis_Final.pdf)
 
-```{=html}
 <!-- Papers abandoned by lead author after 1st review
 
 1\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
@@ -70,11 +70,6 @@ Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C.
 2. Hamner, R. M., **J. D. Selwyn**, E. Krell, S. A. King, and C. E. Bird. (in review). Modeling next-generation sequencer sampling error in pooled population samples dramatically reduces false positives in genetic structure tests (MER-20-0061). Molecular Ecology Resources
 
 1. **Selwyn, J. D.**, and J. D. Hogan. (in review). Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series. -->
-  ```
-
-<!-- Original comments preserved as requested -->
-:::
-:::
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
@@ -86,110 +81,64 @@ Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C.
   gtag('config', 'G-XZNV2B7VTX');
 </script>
 
+```{=html}
 <style>
-/* Base styling for the page */
 body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-}
-
-/* Main container with the split layout */
-.container {
-  display: flex;
-  position: relative;
-  min-height: 100vh;
-}
-
-/* Background image styling - fixed on the left */
-.container::before {
-  content: "";
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 50%;
-  height: 100%;
+  background-color: white;
   background-image: url("img/Elacatinus_sp_on_brain_coral.jpg");
-  background-size: cover;
-  background-position: center;
+  background-size: 50%;
+  background-attachment: fixed;
+  background-position: left center;
   background-repeat: no-repeat;
-  z-index: -1;
 }
 
-/* Content section styling */
-.content-section {
-  width: 50%;
-  margin-left: 50%;
-  padding: 2rem;
-  background: white;
+/* Main content container */
+main {
+  margin-left: 50% !important;
+  width: 50% !important;
+  max-width: 50% !important;
+  padding: 2rem !important;
 }
 
-/* Table of Contents styling */
-#toc-title {
-  font-size: 1.2rem;
+/* For small screens */
+@media screen and (max-width: 768px) {
+  body {
+    background-size: 100%;
+    background-position: top center;
+    background-attachment: scroll;
+    height: 30vh;
+  }
+  
+  main {
+    margin-left: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-top: 30vh;
+  }
+}
+
+/* TOC styling */
+.sidebar-title {
+  font-weight: bold;
   margin-bottom: 1rem;
 }
 
-#TOC {
-  position: sticky;
-  top: 2rem;
-  max-height: calc(100vh - 4rem);
-  overflow-y: auto;
-  font-size: 0.9rem;
-  border-left: 1px solid #e0e0e0;
-  padding-left: 1rem;
-  margin-bottom: 2rem;
+.sidebar-navigation .active {
+  font-weight: bold;
 }
 
-#TOC ul {
-  list-style-type: none;
-  padding-left: 1rem;
+.sidebar-navigation .sidebar-section {
+  margin-bottom: 0.5rem;
 }
 
-#TOC a {
-  text-decoration: none;
-  color: #0066cc;
-  display: block;
-  padding: 0.2rem 0;
-}
-
-#TOC a:hover {
-  text-decoration: underline;
-}
-
-/* Publication styling */
-.content-section p {
+/* Ensure content fits */
+p {
   max-width: 100%;
-  text-align: left;
-  margin-bottom: 1rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
-
-/* Responsive design for smaller screens */
-@media screen and (max-width: 768px) {
-  .container::before {
-    position: absolute;
-    width: 100%;
-    height: 30vh;
-    background-position: top center;
-  }
-  
-  .content-section {
-    width: 100%;
-    margin-left: 0;
-    margin-top: 30vh;
-    padding: 1.5rem;
-  }
-  
-  #TOC {
-    position: relative;
-    top: 0;
-    max-height: none;
-    margin-bottom: 2rem;
-    border-left: none;
-    border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 1rem;
-  }
-}
 </style>
+```
