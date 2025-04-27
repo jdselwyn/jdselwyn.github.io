@@ -74,10 +74,8 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Publications – Jason Selwyn">
-<meta property="og:description" content="">
 <meta property="og:site_name" content="Jason Selwyn">
 <meta name="twitter:title" content="Publications – Jason Selwyn">
-<meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -150,22 +148,10 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of Contents</h2>
-   
-  <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
-  <li><a href="#in-review-revision" id="toc-in-review-revision" class="nav-link" data-scroll-target="#in-review-revision">In Review &amp; Revision</a></li>
-  <li><a href="#dissertation-thesis" id="toc-dissertation-thesis" class="nav-link" data-scroll-target="#dissertation-thesis">Dissertation &amp; Thesis</a></li>
-  </ul>
-</nav>
-    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -185,7 +171,15 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-
+<nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">Table of Contents</h2>
+   
+  <ul>
+  <li><a href="#publications" id="toc-publications">Publications</a></li>
+  <li><a href="#in-review-revision" id="toc-in-review-revision">In Review &amp; Revision</a></li>
+  <li><a href="#dissertation-thesis" id="toc-dissertation-thesis">Dissertation &amp; Thesis</a></li>
+  </ul>
+</nav>
 <!-- Publications list with correct markdown -->
 <section id="publications" class="level1">
 <h1>Publications</h1>
@@ -261,16 +255,21 @@ body::before {
 }
 
 /* Position the main content to the right side */
+.quarto-container {
+  display: flex;
+  width: 100%;
+}
+
 #quarto-content {
   margin-left: 50%;
   width: 50%;
   background-color: white;
 }
 
-/* Set main content area */
-main {
-  width: 100% !important;
-  max-width: 100% !important;
+/* Set main content area width */
+.content-with-sidebar {
+  width: 70% !important;
+  max-width: 900px !important;
   padding: 2rem !important;
 }
 
@@ -279,10 +278,25 @@ main {
   overflow-wrap: break-word;
 }
 
+/* TOC sidebar styling */
+.sidebar {
+  width: 30% !important;
+  max-width: 250px !important;
+  padding: 2rem 0 2rem 1rem !important;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
 /* TOC styling - make it look nicer */
 .sidebar-title {
   font-weight: bold;
   margin-bottom: 1rem;
+}
+
+.sidebar-navigation .sidebar-item {
+  padding: 0.2rem 0;
 }
 
 .sidebar-navigation .active {
@@ -309,13 +323,49 @@ main {
     width: 100%;
     margin-top: 30vh;
   }
+  
+  /* Adjust layout for mobile */
+  .quarto-container {
+    flex-direction: column;
+  }
+  
+  .content-with-sidebar, .sidebar {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  .sidebar {
+    height: auto;
+    padding-bottom: 1rem !important;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+/* Publication text styling */
+p {
+  margin-bottom: 1rem;
+}
+
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Make links stand out */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 </style>
 
 
 </section>
 
-</main> <!-- /main -->
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
