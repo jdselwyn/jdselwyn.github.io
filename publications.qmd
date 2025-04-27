@@ -6,7 +6,7 @@ format:
     toc-location: right
     toc-title: "Table of Contents"
     css: styles.css
-page-layout: article
+page-layout: custom
 ---
 
 <!-- Publications list with correct markdown -->
@@ -106,16 +106,21 @@ body::before {
 }
 
 /* Position the main content to the right side */
+.quarto-container {
+  display: flex;
+  width: 100%;
+}
+
 #quarto-content {
   margin-left: 50%;
   width: 50%;
   background-color: white;
 }
 
-/* Set main content area */
-main {
-  width: 100% !important;
-  max-width: 100% !important;
+/* Set main content area width */
+.content-with-sidebar {
+  width: 70% !important;
+  max-width: 900px !important;
   padding: 2rem !important;
 }
 
@@ -124,10 +129,25 @@ main {
   overflow-wrap: break-word;
 }
 
+/* TOC sidebar styling */
+.sidebar {
+  width: 30% !important;
+  max-width: 250px !important;
+  padding: 2rem 0 2rem 1rem !important;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
 /* TOC styling - make it look nicer */
 .sidebar-title {
   font-weight: bold;
   margin-bottom: 1rem;
+}
+
+.sidebar-navigation .sidebar-item {
+  padding: 0.2rem 0;
 }
 
 .sidebar-navigation .active {
@@ -154,6 +174,42 @@ main {
     width: 100%;
     margin-top: 30vh;
   }
+  
+  /* Adjust layout for mobile */
+  .quarto-container {
+    flex-direction: column;
+  }
+  
+  .content-with-sidebar, .sidebar {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  .sidebar {
+    height: auto;
+    padding-bottom: 1rem !important;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+/* Publication text styling */
+p {
+  margin-bottom: 1rem;
+}
+
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Make links stand out */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 </style>
 ```
