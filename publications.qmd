@@ -3,9 +3,7 @@ title: "Publications"
 format: 
   html:
     toc: true
-    toc-location: right
-    toc-title: "Table of Contents"
-    css: styles.css
+    toc-title: "Contents"
 page-layout: custom
 ---
 
@@ -90,13 +88,20 @@ html, body {
   overflow-x: hidden;
 }
 
-/* Create the split layout with fixed background */
+/* Basic structure */
+body {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+}
+
+/* Image section - 40% width */
 body::before {
   content: "";
   position: fixed;
   top: 0;
   left: 0;
-  width: 50%;
+  width: 40%;
   height: 100%;
   background-image: url("img/Elacatinus_sp_on_brain_coral.jpg");
   background-size: cover;
@@ -105,104 +110,43 @@ body::before {
   z-index: -1;
 }
 
-/* Position the main content to the right side */
-.quarto-container {
-  display: flex;
-  width: 100%;
+/* Override Quarto's default margins and layout */
+.page-layout-custom .page-columns {
+  display: flex !important;
+  margin-left: 40% !important;
+  width: 60% !important;
+  max-width: none !important;
 }
 
-#quarto-content {
-  margin-left: 50%;
-  width: 50%;
+/* Main content - 40% of screen (66.7% of the remaining 60%) */
+.page-layout-custom .content {
+  width: 66.7% !important;
+  padding: 2rem !important;
   background-color: white;
 }
 
-/* Set main content area width */
-.content-with-sidebar {
-  width: 70% !important;
-  max-width: 900px !important;
-  padding: 2rem !important;
+/* TOC - 20% of screen (33.3% of the remaining 60%) */
+.page-layout-custom .column-sidebar {
+  width: 33.3% !important;
+  background-color: white;
+  padding: 2rem 1rem !important;
+  border-left: 1px solid #eee;
 }
 
-/* Ensure the content doesn't overlap */
-.content {
-  overflow-wrap: break-word;
-}
-
-/* TOC sidebar styling */
-.sidebar {
-  width: 30% !important;
-  max-width: 250px !important;
-  padding: 2rem 0 2rem 1rem !important;
-  position: sticky;
-  top: 0;
-  height: 100vh;
-  overflow-y: auto;
-}
-
-/* TOC styling - make it look nicer */
-.sidebar-title {
-  font-weight: bold;
-  margin-bottom: 1rem;
-}
-
-.sidebar-navigation .sidebar-item {
-  padding: 0.2rem 0;
-}
-
-.sidebar-navigation .active {
-  font-weight: bold;
-}
-
-.sidebar-navigation .sidebar-section {
-  margin-bottom: 0.5rem;
-}
-
-/* For small screens */
-@media screen and (max-width: 768px) {
-  /* Change background to top position */
-  body::before {
-    position: absolute;
-    width: 100%;
-    height: 30vh;
-    background-position: top center;
-  }
-  
-  /* Full width content */
-  #quarto-content {
-    margin-left: 0;
-    width: 100%;
-    margin-top: 30vh;
-  }
-  
-  /* Adjust layout for mobile */
-  .quarto-container {
-    flex-direction: column;
-  }
-  
-  .content-with-sidebar, .sidebar {
-    width: 100% !important;
-    max-width: 100% !important;
-  }
-  
-  .sidebar {
-    height: auto;
-    padding-bottom: 1rem !important;
-    border-bottom: 1px solid #eee;
-  }
-}
-
-/* Publication text styling */
+/* Content styling */
 p {
-  margin-bottom: 1rem;
+  margin-bottom: 1.2rem;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 h1 {
   margin-top: 2rem;
   margin-bottom: 1.5rem;
+  font-size: 1.8rem;
 }
 
-/* Make links stand out */
+/* Link styling */
 a {
   color: #0066cc;
   text-decoration: none;
@@ -210,6 +154,36 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Mobile view */
+@media screen and (max-width: 768px) {
+  /* Make image a banner at top */
+  body::before {
+    position: absolute;
+    width: 100%;
+    height: 30vh;
+    background-position: top center;
+  }
+  
+  /* Rearrange layout */
+  .page-layout-custom .page-columns {
+    flex-direction: column !important;
+    margin-left: 0 !important;
+    width: 100% !important;
+    margin-top: 30vh !important;
+  }
+  
+  .page-layout-custom .content,
+  .page-layout-custom .column-sidebar {
+    width: 100% !important;
+  }
+  
+  .page-layout-custom .column-sidebar {
+    border-left: none;
+    border-top: 1px solid #eee;
+    padding: 1rem !important;
+  }
 }
 </style>
 ```
