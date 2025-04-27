@@ -88,13 +88,6 @@ html, body {
   overflow-x: hidden;
 }
 
-/* Basic structure */
-body {
-  display: flex;
-  flex-direction: row;
-  min-height: 100vh;
-}
-
 /* Image section - 40% width */
 body::before {
   content: "";
@@ -110,40 +103,41 @@ body::before {
   z-index: -1;
 }
 
-/* Override Quarto's default margins and layout */
-.page-layout-custom .page-columns {
-  display: flex !important;
-  margin-left: 40% !important;
-  width: 60% !important;
-  max-width: none !important;
+/* Main container positioning */
+#quarto-document-content {
+  margin-left: 40%;
+  width: 60%;
 }
 
-/* Main content - 40% of screen (66.7% of the remaining 60%) */
-.page-layout-custom .content {
-  width: 66.7% !important;
-  padding: 2rem !important;
-  background-color: white;
+/* Force the two-column layout */
+.quarto-title-meta, .quarto-title, .content {
+  max-width: 66.7% !important;
+  flex: 0 0 66.7% !important;
+  padding-right: 1rem !important;
 }
 
-/* TOC - 20% of screen (33.3% of the remaining 60%) */
-.page-layout-custom .column-sidebar {
-  width: 33.3% !important;
+#TOC {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100vh;
+  overflow-y: auto;
+  padding: 2rem 1rem;
   background-color: white;
-  padding: 2rem 1rem !important;
   border-left: 1px solid #eee;
 }
 
-/* Content styling */
-p {
-  margin-bottom: 1.2rem;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-}
-
+/* Add spacing for readability */
 h1 {
   margin-top: 2rem;
   margin-bottom: 1.5rem;
-  font-size: 1.8rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 /* Link styling */
@@ -166,23 +160,25 @@ a:hover {
     background-position: top center;
   }
   
-  /* Rearrange layout */
-  .page-layout-custom .page-columns {
-    flex-direction: column !important;
-    margin-left: 0 !important;
-    width: 100% !important;
-    margin-top: 30vh !important;
+  /* Stack everything vertically */
+  #quarto-document-content {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 30vh;
   }
   
-  .page-layout-custom .content,
-  .page-layout-custom .column-sidebar {
-    width: 100% !important;
+  .quarto-title-meta, .quarto-title, .content {
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
   }
   
-  .page-layout-custom .column-sidebar {
+  #TOC {
+    position: relative;
+    width: 100%;
+    height: auto;
     border-left: none;
     border-top: 1px solid #eee;
-    padding: 1rem !important;
+    margin-top: 2rem;
   }
 }
 </style>
