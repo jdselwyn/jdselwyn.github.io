@@ -219,6 +219,7 @@ Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C.
 2. Hamner, R. M., **J. D. Selwyn**, E. Krell, S. A. King, and C. E. Bird. (in review). Modeling next-generation sequencer sampling error in pooled population samples dramatically reduces false positives in genetic structure tests (MER-20-0061). Molecular Ecology Resources
 
 1. **Selwyn, J. D.**, and J. D. Hogan. (in review). Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series. -->
+<!-- Original comments preserved as requested -->
 </section>
 </div>
 </div>
@@ -269,6 +270,39 @@ body {
   background: white;
 }
 
+/* Table of Contents styling */
+#toc-title {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+#TOC {
+  position: sticky;
+  top: 2rem;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto;
+  font-size: 0.9rem;
+  border-left: 1px solid #e0e0e0;
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+#TOC ul {
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+#TOC a {
+  text-decoration: none;
+  color: #0066cc;
+  display: block;
+  padding: 0.2rem 0;
+}
+
+#TOC a:hover {
+  text-decoration: underline;
+}
+
 /* Publication styling */
 .content-section p {
   max-width: 100%;
@@ -292,6 +326,16 @@ body {
     margin-left: 0;
     margin-top: 30vh;
     padding: 1.5rem;
+  }
+  
+  #TOC {
+    position: relative;
+    top: 0;
+    max-height: none;
+    margin-bottom: 2rem;
+    border-left: none;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 1rem;
   }
 }
 </style>
