@@ -211,12 +211,17 @@ ul.task-list li input[type="checkbox"] {
 <h1>Dissertation &amp; Thesis</h1>
 <p>1. <strong>Selwyn, J. D.</strong> 2022, May. Determining the Effect of Variability in Habitat Quality on Dispersal. Ph.D., Texas A&amp;M University - Corpus Christi, Corpus Christi, Texas, USA. <a href="documents/JSelwyn Dissertation_v5.pdf">Ph.D.&nbsp;Dissertation</a></p>
 <p>2. <strong>Selwyn, J. D.</strong> 2015, July. How does Dispersal affect Chaos: Viscous Populations and Families in a Common Caribbean Goby (<i>Coryphopterus personatus</i>). Texas A&amp;M University - Corpus Christi, Corpus Christi, Texas, USA. <a href="documents/JSelwyn Thesis_Final.pdf">MS Thesis</a></p>
-<!-- Papers abandoned by lead author after 1st review -->
-<!-- 1\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs. -->
-<!-- 4. Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C. Mace, and D. Gatlin III. (in review). Effects on Embryonic Development and Survival of Newly Hatched Southern Flounder (*Paralichthys lethostigma*) Larvae Under Conditions of Acute Exposure to Experimental Temperature and Salinity Treatment Combinations (AQREP-D-20-00109). Aquaculture Reports -->
-<!-- 3. Broquet, N., J. Scarpa, A. Siccardi, **J. D. Selwyn**, J. Pollack, and D. Vaughan. (in review). Challenges Implementing Lobe Coral (*Porites*) Propagation By Microfragmentation In A Philippine Fisherfolk Community (REC-21-098). Restoration Ecology. -->
-<!-- 2. Hamner, R. M., **J. D. Selwyn**, E. Krell, S. A. King, and C. E. Bird. (in review). Modeling next-generation sequencer sampling error in pooled population samples dramatically reduces false positives in genetic structure tests (MER-20-0061). Molecular Ecology Resources -->
-<!-- 1. **Selwyn, J. D.**, and J. D. Hogan. (in review). Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series. -->
+<!-- Papers abandoned by lead author after 1st review
+
+1\. **Selwyn, J. D.**, P. Usseglio, and J. D. Hogan. in revision. Photogrammetry derived habitat model enables characterization of fine-scale habitat use in a pair of coral reef fishes (CORE-S-21-00271). Coral Reefs.
+
+Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C. Mace, and D. Gatlin III. (in review). Effects on Embryonic Development and Survival of Newly Hatched Southern Flounder (*Paralichthys lethostigma*) Larvae Under Conditions of Acute Exposure to Experimental Temperature and Salinity Treatment Combinations (AQREP-D-20-00109). Aquaculture Reports
+
+3. Broquet, N., J. Scarpa, A. Siccardi, **J. D. Selwyn**, J. Pollack, and D. Vaughan. (in review). Challenges Implementing Lobe Coral (*Porites*) Propagation By Microfragmentation In A Philippine Fisherfolk Community (REC-21-098). Restoration Ecology.
+
+2. Hamner, R. M., **J. D. Selwyn**, E. Krell, S. A. King, and C. E. Bird. (in review). Modeling next-generation sequencer sampling error in pooled population samples dramatically reduces false positives in genetic structure tests (MER-20-0061). Molecular Ecology Resources
+
+1. **Selwyn, J. D.**, and J. D. Hogan. (in review). Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series. -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
 <script>
@@ -249,13 +254,38 @@ body::before {
   z-index: -1;
 }
 
-/* Main container positioning */
-#quarto-document-content {
-  margin-left: 50%;
-  width: 50%;
-  padding: 2rem;
+/* Force document to the right 50% */
+body {
+  position: relative;
+}
+
+.page-layout-custom .page-columns {
+  display: block !important;
+  margin-left: 50% !important;
+  width: 50% !important;
+  max-width: 50% !important;
+}
+
+/* Main content container */
+#quarto-content {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 2rem !important;
   background-color: white;
   position: relative; /* For floating TOC positioning */
+}
+
+/* Prevent content overflow */
+.content-with-header {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.content {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding-right: 0 !important;
 }
 
 /* Table of Contents floating in upper right */
@@ -324,12 +354,18 @@ p {
     background-position: top center;
   }
   
+  /* Reset positioning for mobile */
+  .page-layout-custom .page-columns {
+    margin-left: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-top: 30vh !important;
+  }
+  
   /* Full-width content below image */
-  #quarto-document-content {
-    margin-left: 0;
-    width: 100%;
-    margin-top: 30vh;
-    padding: 1.5rem;
+  #quarto-content {
+    width: 100% !important;
+    padding: 1.5rem !important;
   }
   
   /* Move TOC below title */
