@@ -69,8 +69,6 @@ Blandon, I. R., **J. D. Selwyn**, F. I. Gelwick, R. R. Vega, J. Ruben Chavez, C.
 
 1. **Selwyn, J. D.**, and J. D. Hogan. (in review). Local dispersal results in kin-aggregation in a social reef fish (MEPS-201901064). Marine Ecology Progress Series. -->
 
-<!-- Original comments preserved -->
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XZNV2B7VTX"></script>
 <script>
